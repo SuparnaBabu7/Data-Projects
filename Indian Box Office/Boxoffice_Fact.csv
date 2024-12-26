@@ -1,0 +1,605 @@
+﻿FilmID,Title,Release Date,DirectorID,Lead Actor/Actress,LanguageID,Industry,GenreID,Budget in Crores,First Day Collection Worldwide  in Crores,Worldwide Collection  in Crores,Overseas Collection in Crores,India Gross Collection in Crores,Verdict,IMDb Rating,Runtime (mins),OTT Platform
+34,Sanju,29-Jun-18,101,Ranbir Kapoor,501,Bollywood,623,100,54.4,588.5,150,438.5,Blockbuster,7.6,155,Netflix
+36,Simmba,28-Dec-18,105,Ranveer Singh,501,Bollywood,605,125,20.2,390,95,295,Blockbuster,5.5,158,ZEE5
+225,Janatha Garage,01-Sep-16,140,N.T. Rama Rao Jr.,503,Kollywood,605,50,45,140,15,125,Blockbuster,7.2,162,Disney+ Hotstar
+13,Kaththi,22-Oct-14,107,Joseph Vijay,503,Kollywood,606,70,25,117.5,29,88.5,Blockbuster,8.1,166,Amazon Prime Video
+31,Maanikya,01-May-14,130,V. Ravichandran,507,Sandalwood,606,15,3.5,43,0,43,Blockbuster,6.5,165,ZEE5
+190,Srimanthudu,07-Aug-15,140,Mahesh Babu,505,Tollywood,606,70,38,153,20,133,Blockbuster,7.5,158,ZEE5
+62,Kadaikutty Singam,13-Jul-18,155,Karthi,503,Kollywood,606,25,7.2,70.1,7.1,63,Blockbuster,6.8,149,Disney+ Hotstar
+65,Irumbu Thirai,11-May-18,158,Vishal,503,Kollywood,607,20,2.3,61.7,14.7,47,Blockbuster,7.6,160,ZEE5
+78,Abrahaminte Santhathikal,22-Jun-18,170,Mammootty,509,Mollywood,607,10,4.5,42.2,14.1,28.1,Blockbuster,6.7,131,Aha  
+15,Veeram,10-Jan-14,114,Ajith Kumar,503,Kollywood,613,45,9,100,19.5,80.5,Blockbuster,6.5,161,Amazon Prime Video
+186,Tanu Weds Manu Returns,22-May-15,142,Kangana Ranaut,501,Bollywood,608,40,9,258,44,214,Blockbuster,7.6,128,Amazon Prime Video
+55,Geetha Govindam,17-Aug-18,149,Vijay Deverakonda,505,Tollywood,608,8.5,16,123,11,112.3,Blockbuster,7.7,142,ZEE5
+157,Mahanubhavudu,29-Sep-17,180,Sharwanand,505,Tollywood,608,15,7,45.3,5.2,40.1,Blockbuster,6.4,151,Google Play Movies
+32,Ugramm,21-Feb-14,131,Sri Murali,507,Sandalwood,621,4,2,31,0,31,Blockbuster,8,132,Amazon Prime Video
+80,Imaikkaa Nodigal,14-Sep-18,172,Nayanthara,503,Kollywood,621,10,2,40,10,30,Blockbuster,7.3,170,Amazon Prime Video
+315,Bheeshmaparvam,03-Mar-22,179,Mammootty,509,Mollywood,621,18,12.2,88.2,36.5,51.7,Blockbuster,7.6,144,Disney+ Hotstar
+9,Ek Villain,27-Jun-14,109,Sidharth Malhotra,501,Bollywood,609,40,16.7,155,12.3,142.7,Blockbuster,6.6,129,Netflix
+43,Badhaai ho,19-Oct-18,138,Ayushmann Khurrana,503,Kollywood,620,30,8,220,44,176,Blockbuster,7.9,124,Disney+ Hotstar
+68,Njan Prakashan,04-Jan-19,161,Fahadh Faasil,509,Mollywood,620,8,1.5,52,17.5,34.5,Blockbuster,7.7,131,Amazon Prime Video
+16,Velaiilla Pattadhari,18-Jul-14,115,Dhanush,503,Kollywood,610,20,4.3,92,18,74,Blockbuster,7.9,133,Amazon Prime Video
+14,Race Gurram,11-Apr-14,113,Allu Arjun,505,Tollywood,612,50,6.8,108.9,6,102.9,Blockbuster,7.3,163,Amazon Prime Video
+142,Nenu Local,03-Feb-17,178,Nani,505,Tollywood,615,20,9.7,60,9.2,50.8,Blockbuster,6.4,138,ZEE5
+23,Manam,23-May-14,122,Nagarjuna Akkineni,505,Tollywood,617,25,3.5,62,6.4,55.6,Blockbuster,8,163,Amazon Prime Video
+85,Aadhi,09-Feb-18,177,Pranav Mohanlal,509,Mollywood,618,7,2.7,36,5,31,Blockbuster,6.4,158,Aha  
+91,Rx 100,12-Jul-18,183,Kartikeya Gummakonda,505,Tollywood,619,2,1.5,27.3,1,26.3,Blockbuster,6.9,153,Amazon Prime Video
+72,96,05-Oct-18,165,Vijay Sethupathi,503,Kollywood,636,15,7.6,50,13.5,36.5,Blockbuster,8.5,158,Amazon Prime Video
+35,Padmaavat,25-Jan-18,133,Deepika Padukone,501,Bollywood,624,190,25,585,185,400,Blockbuster,7.1,163,Amazon Prime Video
+214,Sultan,06-Jul-16,111,Salman Khan,501,Bollywood,680,140,71.3,607.7,186.5,421.2,Blockbuster,7.1,170,Amazon Prime Video 
+39,Baaghi 2,28-Mar-18,136,Disha Patani,501,Bollywood,626,65,25,257,45.1,211.9,Blockbuster,4.8,137,Disney+ Hotstar 
+84,Ratsasan,05-Oct-18,176,Vishnu Vishal,503,Kollywood,626,10,0.5,36.8,6.9,29.9,Blockbuster,8.3,146,Amazon Prime Video 
+87,Varathan,04-Oct-18,179,Fahadh Faasil,509,Mollywood,627,3.5,2.1,34.2,4.1,30.1,Blockbuster,7.5,130,Amazon Prime Video 
+47,Stree,31-Aug-18,141,Rajkummar Rao,501,Bollywood,628,25,9,182,15,167,Blockbuster,7.5,128,Netflix 
+51,Sonu Ke Titu Ki Sweety,23-Feb-18,145,Kartik Aaryan,501,Bollywood,630,25,13,156.4,17,139.4,Blockbuster,7.1,138,Amazon Prime Video 
+208,Bhale Bhale Magadivoy,04-Sep-15,180,Nani,505,Tollywood,630,10,6.5,50,10,40,Blockbuster,7.7,137,Amazon Prime Video 
+71,Thamizh Padam 2,13-Jul-18,164,Jiiva,503,Kollywood,631,10,4.2,51,2.8,48.2,Blockbuster,6.5,143,Amazon Prime Video 
+60,Mahanati,11-May-18,153,Keerthy Suresh,505,Tollywood,633,20,3.5,83.5,10.5,73,Blockbuster,8.4,177,Amazon Prime Video 
+81,Tagaru,23-Feb-18,173,Shivarajkumar,507,Sandalwood,640,10,7,40,0,40,Blockbuster,7.9,129,Amazon Prime Video 
+89,Kolamavu Kokila,17-Aug-18,181,Nayanthara,503,Kollywood,642,10,4,31.3,2,29.3,Blockbuster,7.3,140,Disney+ Hotstar 
+228,Baaghi,29-Apr-16,121,Tiger Shroff,501,Bollywood,663,35,11.8,125.8,23.1,102.7,Blockbuster,5.3,133,Amazon Prime Video 
+187,I,14-Jan-15,132,Vikram,503,Kollywood,671,90,35,240,38,202,Blockbuster,7.4,188,Amazon Prime Video 
+262,Doctor,09-Oct-21,181,Sivakarthikeyan,503,Kollywood,693,40,13.5,100.5,20,80.5,Blockbuster,7.4,148,Netflix 
+146,Shatamanam Bhavati,14-Jan-17,185,Sharwanand,505,Tollywood,647,15,6.5,53.5,5.2,48.3,Blockbuster,7,129,Amazon Prime Video 
+96,Sudani from Nigeria,20-Apr-18,188,Soubin Shahir,509,Mollywood,645,2,2,24.7,3.1,21,Blockbuster,8.1,123,Netflix 
+97,Chalo,02-Feb-18,189,Naga Shaurya,505,Tollywood,646,5,1.2,24,4.8,19.2,Blockbuster,6.3,145,Amazon Prime Video 
+99,Goodachari,03-Aug-18,191,Adivi Sesh,505,Tollywood,618,5,2.9,23.4,5.5,17.9,Blockbuster,7.8,147,Amazon Prime Video 
+286,RRR (Rise Roar Revolt),25-Mar-22,195,N.T. Rama Rao Jr.,505,Tollywood,698,550,223,1230,314.15,915.85,Blockbuster,7.8,187,Netflix
+105,Secret Superstar,19-Oct-17,196,Zaira Wasim,501,Bollywood,650,50,5,912.6,831.4,81.2,Blockbuster,7.8,150,Amazon Prime Video 
+106,Tiger Zinda Hai,22-Dec-17,197,Salman Khan,501,Bollywood,651,200,65.2,558,124.2,433.8,Blockbuster,5.9,161,Amazon Prime Video 
+108,Hindi Medium,19-May-17,198,Irrfan Khan,501,Bollywood,620,25,3.5,334,237.4,96.6,Blockbuster,7.8,132,Amazon Prime Video 
+111,Mersal,18-Oct-17,201,Joseph Vijay,503,Kollywood,607,125,50.3,255,71,184,Blockbuster,7.5,172,Netflix
+131,Fidaa,21-Jul-17,216,Varun Tej,505,Tollywood,608,15,8.9,87,13.1,73.9,Blockbuster,7.4,144,Disney+ Hotstar
+204,Thani Oruvan,28-Aug-15,218,Jayam Ravi,503,Kollywood,607,20,14,64.7,10.7,54,Blockbuster,8.4,160,Amazon Prime Video
+139,Vikram Vedha,21-Jul-17,223,Madhavan,503,Kollywood,621,15,3.1,63.2,3.2,60,Blockbuster,8.2,147,ZEE5
+148,Ninnu Kori,07-Jul-17,229,Nani,505,Tollywood,630,20,10.6,52.3,7.7,44.6,Blockbuster,7.5,137,Amazon Prime Video
+150,Arjun Reddy,07-Dec-23,231,Vijay Deverakonda,505,Tollywood,619,5,8.2,50,11.6,38.4,Blockbuster,7.9,182,Amazon Prime Video
+151,Munthirivallikal Thalirkkumbol,20-Jan-17,232,Mohanlal,509,Mollywood,630,10,2.6,50,15,35,Blockbuster,6.9,154,Sun NXT
+154,Ezra,10-Feb-17,234,Prithviraj Sukumaran,509,Mollywood,661,8,1.6,48.6,8.1,40.5,Blockbuster,6.6,147,Amazon Prime Video
+158,Hebbuli,22-Apr-17,236,V. Ravichandran,507,Sandalwood,627,20,6.5,45,0,45,Blockbuster,6.6,141,ZEE5
+161,Ramaleela,27-Oct-17,239,Dileep,509,Mollywood,664,14,2.1,40.8,8.7,32.1,Blockbuster,7.3,158,Amazon Prime Video
+169,Aadu 2,22-Dec-17,244,Jayasurya,509,Mollywood,631,7.5,3.4,35.3,6.3,29,Blockbuster,7.1,160,ZEE5  
+378,Anjaam Pathiraa,31-Jan-20,244,Kunchacko Boban,509,Mollywood,717,5,1.5,50,15,35,Blockbuster,7.9,144,Sun NXT  
+173,Kavan,31-Mar-17,248,Vijay Sethupathi,503,Kollywood,627,10,3.1,30,7.3,22.7,Blockbuster,7.1,150,Amazon Prime Video  
+177,Take Off,01-Jan-20,251,Parvathy Thiruvothu,509,Mollywood,627,8,1.4,27.1,6.1,21,Blockbuster,8.1,139,Amazon Prime Video  
+268,Krack,09-Jan-21,253,Ravi Teja,505,Tollywood,621,35,1.4,60.15,1.4,58.75,Blockbuster,6.9,154,Aha  
+195,Kanchana 2,17-Apr-15,259,Raghava Lawrence,503,Kollywood,628,17,10,114,6,108,Blockbuster,5.5,166,Sun NXT  
+264,Maanaadu,25-Nov-21,264,Silambarasan Rajendar,503,Kollywood,639,35,8.4,80.7,17,63.7,Blockbuster,8.2,147,SonyLIV  
+205,Ennu Ninte Moideen,19-Sep-15,265,Prithviraj Sukumaran,509,Mollywood,676,10,0.81,57.2,19,38.2,Blockbuster,8,166,Amazon Prime Video  
+207,Two Countries,25-Dec-15,266,Dileep,509,Mollywood,620,12,2.2,50.3,14,36.3,Blockbuster,6.9,154,Sun NXT  
+209,Amar Akbar Anthony,16-Oct-15,267,Prithviraj Sukumaran,509,Mollywood,642,7,1.6,46.4,13,33.4,Blockbuster,6.6,140,Sun NXT  
+252,Kattappanayile Rithwik Roshan,18-Nov-16,267,Siddique,509,Mollywood,608,3,1.1,37.1,13.3,23.8,Blockbuster,7.1,140,Sun NXT  
+241,Remo,07-Oct-16,285,Sivakarthikeyan,503,Kollywood,630,25,8,75,11.5,63.5,Blockbuster,6,151,Amazon Prime Video  
+247,Oppam,08-Sep-16,290,Mohanlal,509,Mollywood,607,7,1.5,52,13.7,38.3,Blockbuster,7.3,143,Amazon Prime Video  
+250,Pichaikkaran,04-Mar-16,293,Vijay Antony,503,Kollywood,627,10,1.8,43,10,33,Blockbuster,7.6,130,Amazon Prime Video  
+253,Action Hero Biju,04-Feb-16,295,Nivin Pauly,509,Mollywood,691,3,1.6,31.2,13.3,17.9,Blockbuster,7.6,144,Sun NXT  
+290,Vikram,03-Jun-22,296,Kamal Haasan,503,Kollywood,621,120,62,414.43,125,289.43,Blockbuster,8.3,175,Amazon Prime Video  
+263,Uppena,12-Feb-21,298,Panja Vaisshnav Tej,505,Tollywood,619,25,16.9,84.1,2.5,81.6,Blockbuster,6.5,147,Netflix  
+267,Jathi Ratnalu,11-Mar-21,301,Naveen Polishetty,505,Tollywood,631,15,8.5,68,11,57,Blockbuster,7.3,145,Amazon Prime Video  
+288,Ponniyin Selvan: Part One,30-Sep-22,310,Vikram,503,Kollywood,698,250,80.7,488.36,175,313.36,Blockbuster,7.6,167,Amazon Prime Video  
+292,Drishyam 2,12-Jan-23,313,Ajay Devgn,501,Bollywood,700,65,23.86,342.31,59.5,282.81,Blockbuster,8.2,140,Amazon Prime Video  
+293,The Kashmir Files,11-Mar-22,314,Mithun Chakraborty,501,Bollywood,647,20,4.9,341,46,295,Blockbuster,8.6,170,ZEE5  
+304,Karthikeya 2,26-Aug-22,319,Nikhil Siddharth,505,Tollywood,703,25,8.7,117.87,15.5,102.37,Blockbuster,7.9,150,ZEE5  
+305,Thiruchitrambalam,18-Aug-22,320,Dhanush,503,Kollywood,704,30,11,117.2,26.9,90.3,Blockbuster,7.9,131,Sun NXT  
+306,Don,13-May-22,321,Sivakarthikeyan,503,Kollywood,608,35,13,114,23.35,90.65,Blockbuster,6.8,165,Netflix  
+308,777 Charlie,10-Jun-22,322,Rakshit Shetty,507,Sandalwood,705,15,9.25,102.75,5.8,96.95,Blockbuster,8.7,164,Voot  
+311,Sita Ramam,05-Aug-22,324,Dulquer Salmaan,505,Tollywood,706,30,5.7,94.28,17,77.28,Blockbuster,8.5,163,Amazon Prime Video  
+317,Love Today,02-Dec-22,327,Pradeep Ranganathan,503,Kollywood,608,6,2.85,83.55,5,78.55,Blockbuster,8,154,Netflix  
+333,Hridayam,28-Jan-22,332,Pranav Mohanlal,509,Mollywood,711,7,5.4,53.1,22.5,30.6,Blockbuster,8.1,172,Disney+ Hotstar  
+335,Malikappuram,30-Dec-22,333,Unni Mukundan,509,Mollywood,698,4,0.52,52.4,10.5,41.9,Blockbuster,7.4,121,Disney+ Hotstar  
+346,Thallumaala,12-Aug-22,341,Tovino Thomas,509,Mollywood,610,15,7.5,40,13.35,26.65,Blockbuster,7,148,Netflix  
+351,Nna Thaan Case Kodu,11-Aug-22,346,Kunchacko Boban,509,Mollywood,642,7,1.4,31.94,8,23.94,Blockbuster,8,138,Disney+ Hotstar  
+355,DJ Tillu,12-Feb-22,349,Sidhu Jonnalagadda,505,Tollywood,719,10,8,30.5,3.2,27.3,Blockbuster,7.2,121,aha  
+367,Tanhaji: The Unsung Warrior,10-Jan-20,359,Ajay Devgn,501,Bollywood,723,150,21.8,361,36,325,Blockbuster,7.5,135,Disney+ Hotstar  
+381,Ayyappanum Koshiyum,14-Feb-20,363,Biju Menon,509,Mollywood,627,10,2.5,43,13,30,Blockbuster,8,177,Amazon Prime Video  
+392,Kabir Singh,21-Jun-19,231,Shahid Kapoor,501,Bollywood,619,55,26.5,377,47,330,Blockbuster,7,173,Netflix  
+393,Uri: The Surgical Strike,11-Jan-19,371,Vicky Kaushal,501,Bollywood,696,40,8.2,341.75,48,293.75,Blockbuster,8.2,138,ZEE5  
+397,Mission Mangal,15-Aug-19,372,Akshay Kumar,501,Bollywood,726,75,42,290.3,54.3,236,Blockbuster,6.5,130,Disney+ Hotstar  
+409,Badla,08-Mar-19,289,Amitabh Bachchan,501,Bollywood,700,20,10,140.4,36,104.4,Blockbuster,7.7,118,Netflix  
+411,F2: Fun and Frustration,12-Jan-19,230,Tamannaah Bhatia,505,Tollywood,631,30,12.5,137.6,20,117.6,Blockbuster,6.1,148,Amazon Prime Video  
+413,Lucifer,29-Mar-19,378,Mohanlal,509,Mollywood,621,35,14,129.2,50.5,78.7,Blockbuster,7.5,175,Amazon Prime Video  
+414,Luka Chuppi,01-Mar-19,379,Kartik Aaryan,501,Bollywood,630,25,8,128,17,111,Blockbuster,6.4,126,Netflix  
+416,Kaithi,25-Oct-19,296,Karthi,503,Kollywood,621,25,9,106.8,20,86.8,Blockbuster,8.4,145,Amazon Prime Video  
+421,iSmart Shankar,18-Jul-19,382,Ram Pothineni,505,Tollywood,622,20,13,80,4,76,Blockbuster,5.4,140,ZEE5  
+422,Madhura Raja,12-Apr-19,278,Mammootty,509,Mollywood,610,30,9.1,78.4,16,62.4,Blockbuster,5.9,147,Amazon Prime Video  
+423,Avane Srimannarayana,27-Dec-19,383,Rakshit Shetty,507,Sandalwood,731,25,5.5,75.3,4.1,71.2,Blockbuster,7.7,186,Amazon Prime Video  
+424,Namma Veettu Pillai,27-Sep-19,155,Sivakarthikeyan,503,Kollywood,610,30,10,72,12,60,Blockbuster,6,153,Sun NXT  
+425,Asuran,03-Oct-19,157,Dhanush,503,Kollywood,606,25,5.4,68.8,48.6,20.2,Blockbuster,8.4,141,Amazon Prime Video  
+428,Prati Roju Pandaage,19-Dec-19,180,Sai Dharam Tej,505,Tollywood,643,25,7.1,53.5,4.4,49.1,Blockbuster,6.3,146,Amazon Prime Video  
+430,Comali,16-Aug-19,327,Jayam Ravi,503,Kollywood,631,25,13,53,8.5,43.5,Blockbuster,6.9,143,Amazon Prime Video  
+431,Yajamana,01-Mar-19,385,Darshan Thoogudeep,507,Sandalwood,637,20,7.3,52,3,49,Blockbuster,6.1,164,Amazon Prime Video  
+441,Thanneer Mathan Dhinangal,09-Aug-19,390,Vineeth Sreenivasan,509,Mollywood,630,4,1.2,34.1,13.2,20.9,Blockbuster,7.8,136,Amazon Prime Video  
+442,Oh! Baby,05-Jul-19,391,Samantha Ruth Prabhu,505,Tollywood,617,15,4.8,33.9,7.4,26.5,Blockbuster,7.3,161,Netflix  
+446,Love Action Drama,13-Sep-19,393,Nivin Pauly,509,Mollywood,630,8,2,31.1,8,23.1,Blockbuster,5.2,146,Sun NXT  
+447,Driving Licence,24-Dec-19,394,Prithviraj Sukumaran,509,Mollywood,732,4,1.1,31,7.5,23.5,Blockbuster,7.2,135,Amazon Prime Video  
+461,LKG,22-Feb-19,404,RJ Balaji,503,Kollywood,631,5,3.5,20.9,4.7,16.2,Blockbuster,6.9,124,aha  
+465,Animal,01-Dec-23,231,Ranbir Kapoor,501,Bollywood,621,150,116,915,255,660,Blockbuster,6.1,204,Netflix  
+466,Gadar 2,11-Aug-23,406,Sunny Deol,501,Bollywood,699,80,53.3,686,65.5,620.5,Blockbuster,5.1,170,ZEE5
+468,Leo,19-Oct-23,296,Joseph Vijay,503,Kollywood,621,250,142.7,605.9,204,401.9,Blockbuster,7.2,164,Netflix
+469,Jailer,10-Aug-23,181,Rajinikanth,503,Kollywood,603,200,96.6,604.5,196,408.5,Blockbuster,7.1,168,Amazon Prime Video
+475,The Kerala Story,12-May-23,407,Adah Sharma,501,Bollywood,647,25,9.5,302,15.5,286.5,Blockbuster,6.9,138,ZEE5  
+494,Mark Antony,15-Sep-23,414,Vishal,503,Kollywood,738,35,11.45,104.3,19,85.3,Blockbuster,6.6,150,Amazon Prime Video  
+499,Baby,14-Jul-23,418,Anand Deverakonda,505,Tollywood,636,10,6.3,81.05,6,75.05,Blockbuster,7.1,175,aha  
+505,12th Fail,27-Oct-23,421,Vikrant Massey,501,Bollywood,633,20,1.5,70.05,3.5,66.55,Blockbuster,8.8,147,Netflix 
+509,Viduthalai Part 1,31-Mar-23,157,Soori,503,Kollywood,621,25,5,53,9.25,43.75,Blockbuster,8.3,150,ZEE5 
+511,Miss. Shetty Mr. Polishetty,07-Sep-23,424,Naveen Polishetty,505,Tollywood,742,20,5.8,51,17.2,33.8,Blockbuster,7,149,Netflix
+516,Por Thozhil,16-Jun-23,427,R. Sarathkumar,503,Kollywood,607,8,1.6,43.5,5.3,38.2,Blockbuster,8,147,SonyLIV
+539,Dada,10-Feb-23,448,Kavin,503,Kollywood,741,4,0.85,20.9,1.5,19.4,Blockbuster,8.1,133,Amazon Prime Video  
+540,Kalki 2898-AD,27-Jun-24,153,Prabhas,505,Tollywood,746,500,177.7,1042.25,275,767.25,Blockbuster,7,180,Amazon Prime Video  
+541,Stree 2: Sarkate Ka Aatank,15-Aug-24,141,Bhumi Rajgor,501,Bollywood,628,80,80,857.07,144,713.07,Blockbuster,7.1,147,Amazon Prime Video  
+545,Hanu Man,12-Jan-24,449,Teja Sajja,505,Tollywood,673,30,23.5,295,57.25,238,Blockbuster,7.8,158,Amazon Prime Video  
+550,The Goat Life,28-Mar-24,452,Prithviraj Sukumaran,509,Mollywood,713,50,16.22,157.35,97.85,97.85,Blockbuster,7.1,173,Amazon Prime Video  
+551,Aavesham,11-Apr-24,422,Fahadh Faasil,509,Mollywood,612,30,10.5,154.79,56,98.79,Blockbuster,7.8,155,Amazon Prime Video  
+552,Raayan,26-Jul-24,453,Dhanush,503,Kollywood,606,70,23,154,43.5,110.5,Blockbuster,6.5,145,Amazon Prime Video  
+556,Premalu,15-Feb-24,390,Naslen,509,Mollywood,630,10,1.35,131.18,42.5,88.68,Blockbuster,7.8,156,Amazon Prime Video  
+557,Tillu Square,29-Mar-24,456,Sidhu Jonnalagadda,505,Tollywood,750,35,22.65,126.75,30,96.75,Blockbuster,6.7,137,aha  
+558,Munjya,07-Jun-24,457,Sharvari,501,Bollywood,628,30,4.8,125,5,120,Blockbuster,6.4,123,Amazon Prime Video  
+562,Maharaja,14-Jun-24,460,Vijay Sethupathi,503,Kollywood,621,30,104.84,71.26,80.59,80.59,Blockbuster,8.5,141,Amazon Prime Video  
+563,A.R.M,12-Sep-24,461,Mohanlal,509,Mollywood,669,30,6.25,102,32,70,Blockbuster,7.6,150,Amazon Prime Video  
+565,Aranmanai 4,21-Jun-24,186,Tamannaah Bhatia,503,Kollywood,666,35,5.3,98,20,78,Blockbuster,5.1,148,Amazon Prime Video  
+566,Guruvayoor Ambalanadayil,16-May-24,339,Prithviraj Sukumaran,509,Mollywood,631,20,8,90.15,34.85,55.3,Blockbuster,6.6,132,Amazon Prime Video  
+568,Varshangalkku Shesham,11-Apr-24,332,Pranav Mohanlal,509,Mollywood,620,20,10.15,83.1,46.6,46.6,Blockbuster,6.6,166,Amazon Prime Video  
+574,Kishkindha Kaandam,12-Sep-24,464,Asif Ali,509,Mollywood,753,7,0.5,69.25,43.25,43.25,Blockbuster,8.6,133,Amazon Prime Video  
+582,Demonte Colony 2,27-Sep-24,172,VJ Archana,503,Kollywood,754,15,5.05,49.15,41.65,41.65,Blockbuster,6.7,144,Amazon Prime Video  
+586,Vaazhai,23-Aug-24,303,Dhivya Dhuraisamy,503,Kollywood,755,5,2.25,39.02,34.22,34.22,Blockbuster,7.9,134,Amazon Prime Video  
+588,Vaazha: Biopic of a Billion Boys,23-Aug-24,472,Siju Sunny,509,Mollywood,647,4,2,36.5,26.5,26.5,Blockbuster,7.3,125,Amazon Prime Video  
+135,Raajakumara,24-Mar-17,126,Puneeth Rajkumar,507,Sandalwood,606,20,7.3,75,0.2,74.8,All Time Blockbuster,7.9,148,Amazon Prime Video  
+278,Yuvarathnaa,01-Apr-21,126,Puneeth Rajkumar,507,Sandalwood,606,25,10.05,38.7,0.7,38,Below Average,6.3,161,Amazon Prime Video  
+57,Agnyaathavaasi,09-Jan-18,143,Pawan Kalyan,511,Tollywood,606,: 90,: 61,: 96,: 19,: 77,: Disaster,4.3,158,Amazon Prime Video  
+30,Bangalore Days,30-May-14,129,Dulquer Salmaan,509,Mollywood,608,: 10,: 1.9,: 50,: 17.5,: 32.5,: Blockbuster,8.3,171,Amazon Prime Video  
+41,K.G.F: Chapter 1,21-Dec-18,131,Yash,507,Sandalwood,621,50,25,238,10,228,All Time Blockbuster,8.2,154,Amazon Prime Video  
+287,K.G.F: Chapter 2,13-Apr-22,131,Yash,507,Sandalwood,621,100,159,1215,214.15,1000.85,: All Time Blockbuster,8.2,166,Amazon Prime Video  
+163,Jomonte Suvisheshangal,03-Feb-17,161,Dulquer Salmaan,509,Mollywood,620,12,2.7,38.4,8.6,29.8,Super Hit,6.6,156,Amazon Prime Video  
+368,Ala Vaikunthapurramuloo,10-Jan-20,143,Allu Arjun,511,Tollywood,610,100,57,269.35,36,233.35,: Blockbuster,7.3,163,Netflix  
+107,Golmaal Again,20-Oct-17,105,Ajay Devgn,515,Bollywood,652,: 135,: 31,: 308.5,: 45.7,: 262.8,: Blockbuster,5,140,Amazon Prime Video  
+147,Velaiilla Pattadhari 2,11-Aug-17,116,Dhanush,517,Kollywood,612,: 30,: 6.9,: 53.5,: 6,: 47.5,: Flop,5.4,128,Amazon Prime Video  
+202,Bruce Lee: The Fighter,16-Oct-15,123,Ram Charan,511,Tollywood,612,: 60,: 22,: 68.5,: 11.5,: 57,: Flop,5.5,151,Amazon Prime Video  
+67,The Villain,18-Oct-18,160,Shivarajkumar,507,Sandalwood,618,45,12,52.7,7.2,45.5,Above Average,4.9,176,Amazon Prime Video  
+27,Mr. And Mrs. Ramchari,25-Dec-14,126,Yash,507,Sandalwood,619,6,4,53,1.4,51.6,All Time Blockbuster,7.3,156,Amazon Prime Video  
+92,Theevandi,21-Sep-18,184,Tovino Thomas,509,Mollywood,631,5,1.7,27.1,2.7,24.4,Super Hit,6.6,144,Amazon Prime Video  
+61,Kayamkulam Kochunni,19-Oct-18,154,Nivin Pauly,509,Mollywood,634,40,9.5,71.3,20.3,51,Super Hit,6.8,152,Amazon Prime Video  
+66,Odiyan,14-Dec-18,159,Mohanlal,509,Mollywood,635,50,18.3,53.6,13.6,40,Flop,5.2,167,Amazon Prime Video  
+83,Taxiwaala,16-Nov-18,175,Vijay Deverakonda,511,Tollywood,641,: 10,: 3.5,: 38,: 3,: 35,: Hit,6.8,137,Amazon Prime Video  
+100,Koode,17-Aug-18,129,Prithviraj Sukumaran,513,Mollywood,648,: 6,: 1.6,: 23.3,: 4.4,: 18.9,: Hit,7.6,155,Amazon Prime Video  
+372,Street Dancer 3D,24-Jan-20,135,Varun Dhawan,515,Bollywood,650,100,14.7,102,15,87,: Flop,3.7,146,Amazon Prime Video  
+176,CIA: Comrade in America,19-May-17,179,Dulquer Salmaan,509,Mollywood,667,7.5,3.1,27.5,3.7,23.8,Super Hit,6.4,134,Amazon Prime Video  
+118,Khaidi No. 150,13-Jan-17,206,Chiranjeevi,511,Tollywood,655,: 65,: 50,: 160,: 16.3,: 143.7,: Blockbuster,5.8,142,Amazon Prime Video  
+375,Love Aaj Kal,14-Feb-20,207,Kartik Aaryan,515,Bollywood,636,60,18,56.9,10,46.9,: Flop,4.7,142,Amazon Prime Video  
+125,Fukrey Returns,08-Dec-17,211,Pulkit Samrat,515,Bollywood,631,: 25,: 8.1,: 112.2,: 4,: 108.2,:  Super Hit,6.5,141,Amazon Prime Video  
+370,Sarileru Neekevvaru,10-Jan-20,230,Mahesh Babu,511,Tollywood,610,100,65,221.7,25,196.7,: Super Hit,5.8,169,Amazon Prime Video  
+156,The Great Father,30-Mar-17,235,Mammootty,509,Mollywood,626,10,4.3,46.6,11.8,34.8,Super Hit,6.8,151,Amazon Prime Video  
+159,Anjaniputra,21-Dec-17,237,Puneeth Rajkumar,507,Sandalwood,616,20,5,45,0,45,Super Hit,5.9,149,Amazon Prime Video  
+280,Red,14-Jan-21,246,Ram Pothineni,511,Tollywood,626,20,9.4,31.2,0.5,30.7,: Average,6.4,146,Amazon Prime Video  
+174,Chakravarthy,14-Apr-17,249,Darshan Thoogudeep,507,Sandalwood,640,20,5,30,0,30,Above Average,6.3,156,Amazon Prime Video  
+178,Njandukalude Naattil Oridavela,29-Sep-17,252,Nivin Pauly,509,Mollywood,668,5,1.6,25.6,6.5,19.1,Super Hit,7.1,131,Amazon Prime Video  
+200,Premam,19-Jun-15,263,Nivin Pauly,509,Mollywood,608,4,1.4,77.2,28,49.2,All Time Blockbuster,8.3,156,Amazon Prime Video  
+211,Charlie,24-Dec-15,269,Dulquer Salmaan,513,Mollywood,677,: 7,: 2.1,: 36.1,: 15.8,: 20.3,: Blockbuster,8,130,Amazon Prime Video  
+212,Oru Vadakkan Selfie,27-Mar-15,270,Nivin Pauly,509,Mollywood,678,4,1.1,31.5,10,21.5,Super Hit,6.7,141,Amazon Prime Video  
+219,M.S. Dhoni: The Untold Story,30-Sep-16,275,Sushant Singh Rajput,515,Bollywood,682,: 100,: 21.4,: 215.4,: 30.8,: 184.6,: Super Hit,8,184,Amazon Prime Video  
+223,Pulimurugan,04-Nov-16,278,Mohanlal,509,Mollywood,618,25,4.1,150,44.1,105.9,All Time Blockbuster,6.6,161,Amazon Prime Video  
+275,Marakkar: Lion of the Arabian Sea,02-Dec-21,290,Mohanlal,509,Mollywood,696,100,20.3,45.4,23,22.4,Disaster,5.9,181,Amazon Prime Video  
+251,Jacobinte Swargarajyam,06-May-16,294,Nivin Pauly,513,Mollywood,690,: 4,: 1.3,: 39.3,: 15.3,: 24,: Blockbuster,7.6,145,Amazon Prime Video  
+265,Kurup,12-Nov-21,299,Dulquer Salmaan,509,Mollywood,694,35,18.3,78.9,35,43.9,Super Hit,7,140,Amazon Prime Video  
+266,Roberrt,11-Mar-21,300,Darshan Thoogudeep,507,Sandalwood,695,30,16.9,69.5,,69.5,Super Hit,5.9,166,Amazon Prime Video  
+274,Pogaru,19-Feb-21,305,Dhruva Sarja,507,Sandalwood,637,25,10.25,45.1,,45.1,Average,3.6,160,Amazon Prime Video  
+277,Kotigobba 3,14-Oct-21,306,Sudeep,507,Sandalwood,619,25,6.9,39.1,,39.1,Below Average,5.5,140,Amazon Prime Video  
+281,The Priest,11-Mar-21,308,Mammootty,509,Mollywood,661,15,2.55,28.5,10.1,18.4,Super Hit,6,140,Amazon Prime Video  
+285,Salaga,20-Aug-21,309,Duniya Vijay,519,Sandalwood,607,10,5.5,22,,22,: Hit,6.9,124,Amazon Prime Video  
+291,Kantara,30-Sep-22,312,Rishab Shetty,507,Sandalwood,699,16,2.8,407.82,44,363.82,All Time Blockbuster,8.2,148,Amazon Prime Video  
+309,VR (Vikrant Rona),28-Jul-22,323,Sudeep,507,Sandalwood,626,80,25.5,100.35,5.6,94.75,Average,6.9,148,Disney+ Hotstar
+312,James,17-Mar-22,325,Puneeth Rajkumar,507,Sandalwood,610,40,23.5,94.2,5,89.2,Super Hit,7.4,149,SonyLIV
+338,Jana Gana Mana,28-Apr-22,335,Prithviraj Sukumaran,509,Mollywood,654,15,2,48.8,18.7,30.1,: Blockbuster,8.3,162,Netflix
+341,Kaduva,07-Jul-22,337,Prithviraj Sukumaran,509,Mollywood,627,18,5.56,44.93,20.7,24.23,Super Hit,6.1,155,Amazon Prime Video
+343,Jaya Jaya Jaya Jaya Hey,28-Oct-22,339,Darshana Rajendran,509,Mollywood,707,5,1.2,43.2,12.1,31.1,: Blockbuster,7.7,145,Disney+ Hotstar
+347,Rorschach,14-Oct-22,342,Mammootty,509,Mollywood,714,18,5.2,39.13,16.71,22.42,Super Hit,6.9,150,Disney+ Hotstar
+353,CBI 5,01-May-22,347,Mammootty,509,Mollywood,717,15,4.45,31.3,15,16.3,Hit,5.6,162,Netflix
+356,Paappan,29-Jul-22,350,Suresh Gopi,509,Mollywood,700,10,2.55,28.2,8.6,19.6,Super Hit,6.7,169,ZEE5
+365,Aaraattu,18-Feb-22,357,Mohanlal,509,Mollywood,606,18,6.95,20.15,7,13.15,Flop,3.8,167,Amazon Prime Video
+382,Shylock,23-Jan-20,364,Mammootty,509,Mollywood,627,15,4,34,13,21,Hit,5.1,130,Amazon Prime Video
+386,Varane Avashyamund,07-Feb-20,367,Shobana,509,Mollywood,608,10,1.5,31.5,6,25.5,Super Hit,6.9,145,Netflix
+387,Trance,21-Feb-20,368,Fahadh Faasil,509,Mollywood,664,35,3.6,25.2,6,19.2,Disaster,7.3,170,Amazon Prime Video  
+390,War,02-Oct-19,104,Hrithik Roshan,515,Bollywood,651,175,74.3,475.62,97.04,378.58,: Blockbuster,6.5,151,Amazon Prime Video  
+391,Saaho,30-Aug-19,370,Prabhas,511,Tollywood,618,50,30,451,92,359,: Below Average,5.1,170,Amazon Prime Video  
+420,Kurukshetra,09-Aug-19,381,Darshan Thoogudeep,507,Sandalwood,730,60,8.2,81,3,78,Hit,6.2,185,Amazon Prime Video  
+429,Pailwaan,13-Sep-19,384,Suniel Shetty,507,Sandalwood,665,35,9,53.4,5,48.4,Hit,6.2,166,Amazon Prime Video  
+433,Natasaarvabhowma,15-Feb-19,386,Puneeth Rajkumar,507,Sandalwood,637,20,6.7,50,1,49,Hit,6.5,157,Amazon Prime Video  
+436,Kumbalangi Nights,22-Feb-19,388,Fahadh Faasil,509,Mollywood,608,5,0.87,39.4,16.4,23,: Blockbuster,8.5,135,Amazon Prime Video  
+444,Mamangam: History of the Brave,13-Dec-19,392,Mammootty,509,Mollywood,696,45,9.5,32.4,11.7,20.7,Disaster,5.3,157,Amazon Prime Video  
+450,Ittymaani: Made in China,05-Sep-19,397,Mohanlal,509,Mollywood,620,10,2.8,27.7,9,18.7,Hit,4.3,158,Amazon Prime Video  
+453,Odeya,12-Dec-19,399,Darshan Thoogudeep,507,Sandalwood,606,15,2.5,25.5,1,24.5,Hit,3.8,164,Amazon Prime Video  
+456,Oru Yamandan Premakadha,03-May-19,401,Dulquer Salmaan,509,Mollywood,608,7,2,23.2,6.2,17,Hit,5.1,165,Amazon Prime Video  
+457,Uyare,03-May-19,402,Parvathy Thiruvothu,509,Mollywood,647,6,1.2,23.7,7.8,15.9,Super Hit,8,125,Amazon Prime Video  
+458,Unda,14-Jun-19,341,Mammootty,513,Mollywood,691,8,1.7,23,7,16,: Hit,7.7,130,Amazon Prime Video  
+459,Virus,14-Jun-19,403,Parvathy Thiruvothu,513,Mollywood,664,6,1.1,22.2,6.4,15.8,: Super Hit,7.7,152,Amazon Prime Video  
+467,Salaar: Part 1 - Ceasefire,22-Dec-23,131,Prabhas,511,Tollywood,621,280,158.1,617.75,130,487.75,: Super Hit,6.6,175,Amazon Prime Video  
+472,Adipurush,16-Jun-23,359,Prabhas,511,Tollywood,735,500,127.5,393,50,343,: Disaster,2.7,179,Amazon Prime Video  
+476,Varisu,11-Jan-23,125,Joseph Vijay,517,Kollywood,613,200,47.2,297.55,89,208.55,: Hit,6,169,Amazon Prime Video  
+479,Waltair Veerayya,13-Jan-23,208,Chiranjeevi,511,Tollywood,606,125,44.6,219,29,190,: Super Hit,6.2,155,Amazon Prime Video  
+481,Kisi Ka Bhai Kisi Ki Jaan,21-Apr-23,328,Salman Khan,515,Bollywood,613,125,27,184.6,52.6,132,: Below Average,4,145,Amazon Prime Video  
+482,2018,05-May-23,409,Tovino Thomas,513,Mollywood,627,28,3.3,180.03,69.5,110.53,: All Time Blockbuster,8.3,150,Amazon Prime Video  
+485,Veera Simha Reddy,12-Jan-23,253,Nandamuri Balakrishna,511,Tollywood,606,85,47.3,130,15,115,: Above Average,4.9,170,Amazon Prime Video  
+487,Bholaa,30-Mar-23,279,Ajay Devgn,515,Bollywood,683,100,16.5,123,15,108,: Average,5.8,144,Amazon Prime Video  
+490,Vaathi,17-Mar-23,169,Dhanush,517,Kollywood,606,40,14.4,116.2,25,91.2,: Blockbuster,7.3,139,Amazon Prime Video  
+495,Virupaksha,21-Apr-23,415,Sai Dharam Tej,511,Tollywood,739,40,11,89.8,14,75.8,: Super Hit,7.2,145,Amazon Prime Video  
+496,Neru,21-Dec-23,177,Mohanlal,513,Mollywood,664,15,5.85,85.6,32.35,53.25,: Blockbuster,7.5,150,Amazon Prime Video  
+497,RDX: Robert Dony Xavier,24-Sep-23,416,Antony Varghese,513,Mollywood,625,15,2.5,84.75,28.75,56,: Blockbuster,7.1,151,Amazon Prime Video  
+498,Kannur Squad,28-Sep-23,417,Mammootty,513,Mollywood,621,25,5,82,34.5,47.5,: Blockbuster,7.6,161,Amazon Prime Video  
+500,Kaatera,29-Dec-23,300,Darshan Thoogudeep,519,Sandalwood,637,45,13,80.5,,80.5,: Hit,7.4,183,Amazon Prime Video  
+502,Hi Nanna,07-Dec-23,420,Nani,511,Tollywood,741,45,9.8,76.35,18.5,57.85,: Hit,8.2,155,Amazon Prime Video  
+506,Romancham,03-Feb-23,422,Soubin Shahir,513,Mollywood,628,3,0.5,69,23.3,45.7,: Blockbuster,7.5,130,Amazon Prime Video  
+513,Kranti,26-Jan-23,426,Darshan Thoogudeep,507,Sandalwood,606,35,11.6,48.2,,48.2,Below Average,5.1,163,Amazon Prime Video  
+515,Mission Raniganj: The Great Bharat Rescue,06-Oct-23,274,Akshay Kumar,515,Bollywood,743,55,3.8,46,5.6,40.4,: Disaster,7.1,134,Amazon Prime Video  
+519,Kabzaa,17-Mar-23,430,Upendra,507,Sandalwood,607,70,12.5,40.4,4.6,35.8,Disaster,4.7,134,Amazon Prime Video  
+520,King of Kotha,24-Aug-23,431,Dulquer Salmaan,509,Mollywood,621,45,15,39.1,15.9,23.2,Disaster,6.1,174,Amazon Prime Video  
+522,Mrs. Chatterjee vs. Norway,17-Mar-23,433,Rani Mukerji,515,Bollywood,633,20,3.2,37.5,11,26.5,: Above Average,7.3,144,Amazon Prime Video  
+524,Samajavaragamana,29-Jun-23,435,Sree Vishnu,511,Tollywood,707,5,1.9,32,9.35,22.65,: Blockbuster,7.4,140,Amazon Prime Video  
+525,Garudan,03-Nov-23,436,Suresh Gopi,513,Mollywood,745,8,4,27.1,9.6,17.5,: Hit,7.3,138,Amazon Prime Video  
+526,Ghost,19-Oct-23,437,Shivarajkumar,507,Sandalwood,618,20,2.8,26.65,0.75,25.9,Below Average,6.3,132,Amazon Prime Video  
+527,Balagam,03-Mar-23,438,Priyadarshi Pulikonda,511,Tollywood,643,3,0.5,26.55,0.25,26.3,: Blockbuster,7.9,131,Amazon Prime Video  
+529,Sapta Sagaradaache Ello: Side A,01-Sep-23,440,Rakshit Shetty,519,Sandalwood,636,20,2.3,26.25,,26.25,: Average,8.2,142,Amazon Prime Video  
+530,Mad,06-Oct-23,441,Anthony,511,Tollywood,631,5,1.8,26,3.5,22.5,: Blockbuster,7.4,127,Amazon Prime Video  
+532,Devil,29-Dec-23,442,Nandamuri Kalyan Ram,511,Tollywood,627,30,4.4,23.2,1.8,21.4,: Disaster,6.5,144,Amazon Prime Video  
+533,Ravanasura,07-Apr-23,443,Ravi Teja,511,Tollywood,621,35,7.7,23.1,3,20.1,: Disaster,5.7,141,Amazon Prime Video  
+535,Maa Oori Polimera 2,03-Nov-23,445,Rajsekhar Aningi,511,Tollywood,666,8,3,21.8,2.5,19.3,: Blockbuster,7.1,125,Amazon Prime Video  
+536,Voice of Sathyanathan,28-Jul-23,446,Thennal Abhilash,513,Mollywood,678,10,1.95,22.1,5.25,16.85,: Hit,5.7,135,Amazon Prime Video  
+537,Mangalavaaram,17-Nov-23,183,Payal Rajput,511,Tollywood,715,15,3.5,21.35,2.25,19.1,: Average,6.8,149,Amazon Prime Video  
+538,Spy,29-Jun-23,447,Nikhil Siddharth,511,Tollywood,618,25,10.2,21,3.5,17.5,: Flop,4.7,135,Amazon Prime Video  
+547,Manjummel Boys,22-Feb-24,451,Soubin Shahir,509,Mollywood,747,22,6.4,241.1,167.65,167.65,All Time Blockbuster,8.2,135,Amazon Prime Video  
+571,Turbo,23-May-24,278,Mammootty,509,Mollywood,612,35,15.7,72.25,32,40.25,Hit,5.9,155,Amazon Prime Video  
+576,Bramayugam,15-Feb-24,466,Mammootty,509,Mollywood,748,30,7.65,60.24,33.81,33.81,Super Hit,7.8,139,Amazon Prime Video  
+585,Abraham Ozler,11-Jan-24,244,Jayaram,509,Mollywood,700,15,5.88,40.82,25.11,25.11,Super Hit,6.5,143,Amazon Prime Video  
+592,Eagle,09-Feb-24,476,Ravi Teja,511,Tollywood,618,40,8.5,31.34,28.24,28.24,Flop,6,159,Amazon Prime Video  
+593,Mathu Vadalara 2,13-Sep-24,477,Vennela Kishore,511,Tollywood,632,16,5,32.5,23,23,Disaster,7,139,Netflix  
+594,The Family Star,05-Apr-24,149,Vijay Deverakonda,511,Tollywood,619,50,12,30.65,21.15,21.15,Super Hit,5.4,159,Amazon Prime Video
+595,Malaikottai Vaaliban,25-Jan-24,478,Mohanlal,509,Mollywood,756,60,12.15,30.31,17.15,17.15,Disaster,6,156,Disney+ Hotstar
+598,Star,07-Jun-24,481,Kavin,517,Kollywood,647,12,3.25,25.11,22.36,22.36,Hit,6.5,158,Amazon Prime Video
+599,Gaami,08-Mar-24,482,Vishwak Sen,511,Tollywood,757,15,7.5,24,18.62,18.62,Hit,6.5,147,ZEE5
+600,Bheema,09-Aug-24,309,Duniya Vijay,519,Sandalwood,640,8,4.6,23,,23,Super Hit,5.7,148,Amazon Prime Video
+601,Nunakkuzhi,15-Aug-24,177,Nikhila Vimal,513,Mollywood,755,8,2.41,22.75,13,13,Hit,6.8,125,ZEE5      
+602,Ooru Peru Bhairavakona,16-Feb-24,483,Sundeep Kishan,511,Tollywood,758,15,4.8,22.47,20.22,20.22,Hit,5.6,133,Amazon Prime Video  
+603,Manamey,07-Jun-24,163,Vikram Aditya,511,Tollywood,631,20,3.25,21,18.65,18.65,Disaster,6,155,Amazon Prime Video  
+604,Gangs of Godavari,13-Jun-24,484,Vishwak Sen,511,Tollywood,759,20,7.5,20.25,18,18,Disaster,5,165,Netflix  
+295,Beast,13-Apr-22,181,Joseph Vijay,503,Kollywood,603,150,82.4,216.58,65,151.58,Below Average,5.2,155,Netflix  
+20,Jilla,09-Jan-14,119,Mohanlal,503,Kollywood,605,50,12,80,11,69,Below Average,6.2,185,Amazon Prime Video  
+215,Kabali,22-Jul-16,147,Rajinikanth,503,Kollywood,605,90,90,309,104,205,Super Hit,6.1,153,Amazon Prime Video
+40,Sarkar,07-Nov-18,107,Joseph Vijay,503,Kollywood,606,135,71,252,70,182,Above Average,6.7,163,Amazon Prime Video
+194,Vedalam,13-Nov-15,114,Ajith Kumar,503,Kollywood,606,50,24,125.7,32,93.7,Super Hit,6.3,148,Amazon Prime Video
+53,Kaala,07-Jun-18,147,Rajinikanth,503,Kollywood,606,135,40,151.7,39.5,112.2,Below Average,6.5,162,Amazon Prime Video  
+63,Seema Raja,14-Sep-18,156,Sivakarthikeyan,503,Kollywood,606,40,13.6,65.6,13,52.6,Below Average,4.3,158,Amazon Prime Video
+69,Sandakozhi 2,19-Oct-18,162,Vishal,503,Kollywood,606,30,5.4,51.9,7.9,44,Average,5,155,Amazon Prime Video
+369,Darbar,10-Jan-20,107,Rajinikanth,503,Kollywood,607,200,53,247.8,74,173.8,Below Average,5.9,159,Amazon Prime Video
+19,Anjaan,15-Aug-14,118,Suriya,503,Kollywood,607,65,11,80.4,18.1,62.3,Below Average,5.3,166,Amazon Prime Video
+329,Cobra,31-Aug-22,172,Vikram,503,Kollywood,607,90,25,58.86,8,50.86,Disaster,6,183,Amazon Prime Video
+334,Kaathu Vaakula Rendu Kaadhal,28-Apr-22,152,Vijay Sethupathi,503,Kollywood,608,25,8.5,52.5,10,42.5,Super Hit,5.5,157,Disney+ Hotstar
+58,Chekka Chivantha Vaanam,28-Sep-18,151,Arvind Swamy,503,Kollywood,621,35,12,91.2,30.7,60.5,Super Hit,7.2,146,Amazon Prime Video
+321,Etharkkum Thunindhavan,10-Mar-22,155,Suriya,503,Kollywood,621,65,14,71.4,14,57.4,Flop,6.4,151,Netflix
+64,Vada Chennai,17-Oct-18,157,Dhanush,503,Kollywood,621,40,10.9,63,8,55,Above Average,8.4,164,Disney+ Hotstar
+28,Maan Karate,28-Mar-14,127,Sivakarthikeyan,503,Kollywood,620,15,4.1,42,10,32,Super Hit,5.2,153,Amazon Prime Video
+10,Lingaa,12-Dec-14,110,Rajinikanth,503,Kollywood,610,100,39,154,30,124,Below Average,5.6,174,Amazon Prime Video
+259,Annaatthe,04-Nov-21,114,Rajinikanth,503,Kollywood,610,180,50.7,172,47.7,124.3,Flop,4,163,Netflix
+76,Maari 2,21-Dec-18,168,Dhanush,503,Kollywood,612,35,7.5,47,16.5,30.5,Below Average,5.6,143,Disney+ Hotstar
+17,Kochadaiiyaan,22-May-14,116,Rajinikanth,503,Kollywood,614,125,18,90,23,67,Disaster,6.2,118,Amazon Prime Video
+121,Vivegam,25-Aug-17,114,Ajith Kumar,503,Kollywood,618,120,35,126,34,92,Flop,5.2,149,Amazon Prime Video
+75,Vishwaroopam 2,10-Aug-18,167,Kamal Haasan,503,Kollywood,618,100,7,47.7,10.7,37,Disaster,5.8,145,Amazon Prime Video
+82,Sketch,12-Jan-18,174,Vikram,503,Kollywood,618,30,10,40,4,36,Below Average,5.6,137,Amazon Prime Video
+162,Kaatru Veliyidai,07-Apr-17,151,Karthi,503,Kollywood,619,30,12,40.8,8.8,32,Below Average,5.8,146,Amazon Prime Video
+364,Yaanai,01-Jul-22,166,Arun Vijay,503,Kollywood,619,15,2.7,21.8,2,19.8,Average,6.1,154,Amazon Prime Video
+33,2,29-Nov-18,132,Rajinikanth,503,Kollywood,622,540,105,701,172,529,Above Average,6,148,Amazon Prime Video
+316,Sardar,21-Oct-22,158,Karthi,503,Kollywood,627,35,6.1,84.5,20,64.5,Super Hit,7.5,166,Amazon Prime Video
+59,Thaanaa Serndha Koottam,12-Jan-18,152,Suriya,503,Kollywood,632,60,16.2,90.2,22,68.2,Below Average,6.3,138,Amazon Prime Video
+74,Saamy²,21-Sep-18,166,Vikram,503,Kollywood,637,50,12,49,9,40,Disaster,4.5,156,Amazon Prime Video
+79,Tik Tik Tik,22-Jun-18,171,Jayam Ravi,503,Kollywood,639,20,3,41,15,26,Hit,5.8,130,Amazon Prime Video
+232,24,06-May-16,122,Suriya,503,Kollywood,686,70,21,102,28.8,73.2,Hit,7.8,164,Amazon Prime Video
+94,Kalakalapu 2,09-Feb-18,186,Jiiva,503,Kollywood,620,10,2.5,25,2,23,Hit,5.2,154,Amazon Prime Video
+254,Aranmanai 2,29-Jan-16,186,Siddharth,503,Kollywood,628,15,2.8,31,10.5,20.5,Average,4.5,136,Amazon Prime Video
+283,Aranmanai 3,14-Oct-21,186,Arya,503,Kollywood,697,15,4.2,24,1,23,Below Average,4.1,155,Amazon Prime Video
+236,Iru Mugan,09-Sep-16,190,Vikram,503,Kollywood,622,40,25,89,14,75,Hit,6.3,154,Amazon Prime Video
+284,Enemy,04-Nov-21,190,Vishal,503,Kollywood,627,30,7.5,25,5,20,Disaster,6.1,159,Amazon Prime Video
+222,Theri,15-Apr-16,201,Joseph Vijay,503,Kollywood,607,75,28,154.5,44.3,110.2,Super Hit,7.3,157,Amazon Prime Video
+126,Bairavaa,12-Jan-17,212,Joseph Vijay,503,Kollywood,618,60,27,110,30.4,79.6,Average,5.8,169,Amazon Prime Video
+127,Singam 3,10-Feb-17,213,Suriya,503,Kollywood,607,65,20,106,26,80,Below Average,6,155,Amazon Prime Video
+133,Velaikkaran,22-Dec-17,218,Sivakarthikeyan,503,Kollywood,627,40,7.5,85.4,21,64.4,Super Hit,7.2,160,Amazon Prime Video
+141,Theeran Adhigaaram Ondru,17-Nov-17,225,Karthi,503,Kollywood,607,25,4.5,60.3,9.2,51.1,Super Hit,8.2,157,Amazon Prime Video
+298,Valimai,25-Feb-22,225,Ajith Kumar,503,Kollywood,607,150,47.5,164.5,41,123.5,Flop,6.1,178,ZEE5
+170,Thupparivaalan,15-Sep-17,245,Vishal,503,Kollywood,607,15,2.5,33.6,11.9,21.7,Super Hit,7.5,151,Amazon Prime Video
+172,Aval,03-Nov-17,247,Siddharth,503,Kollywood,666,7,2.2,30.3,6.3,24,Super Hit,6.7,137,Amazon Prime Video
+206,Anegan,13-Feb-15,248,Dhanush,503,Kollywood,663,25,6.5,54,4,50,Above Average,6.7,154,Amazon Prime Video
+175,Motta Shiva Ketta Shiva,01-Mar-20,250,Raghava Lawrence,503,Kollywood,637,12,3,28.6,3,25.6,Below Average,3.6,151,Amazon Prime Video
+196,Puli,01-Oct-15,260,Joseph Vijay,503,Kollywood,673,100,28.5,97,25,72,Disaster,4.3,155,Amazon Prime Video
+199,Yennai Arindhaal,06-Feb-15,262,Ajith Kumar,503,Kollywood,621,50,14.5,87.5,28.5,59,Hit,7.3,168,Amazon Prime Video
+332,Vendhu Thanindhathu Kaadu,15-Sep-22,262,Silambarasan Rajendar,503,Kollywood,605,25,10.5,54.5,13.5,41,Super Hit,7.3,177,Amazon Prime Video
+203,Massu Engira Masilamani,29-May-15,264,Suriya,503,Kollywood,675,60,7,68,20,48,Flop,5.9,151,Amazon Prime Video
+276,Sulthan,02-Apr-21,285,Karthi,503,Kollywood,606,30,8.55,45,10,35,Below Average,6.2,145,Amazon Prime Video
+242,Kaashmora,28-Oct-16,286,Karthi,503,Kollywood,687,65,12.5,61,4,57,Disaster,5.6,163,Amazon Prime Video
+257,Master,13-Jan-21,296,Joseph Vijay,503,Kollywood,621,135,49.78,223,44.25,178.75,Super Hit,7.4,179,Amazon Prime Video
+345,Prince,21-Oct-22,301,Premgi Amaren,503,Kollywood,619,35,8.5,41.13,9,32.13,: Flop,4.4,143,Amazon Prime Video
+271,Karnan,09-Apr-21,303,Dhanush,503,Kollywood,606,40,13.55,55,4.5,50.5,Hit,8,158,Amazon Prime Video
+324,Viruman,12-Aug-22,330,Arundhati,503,Kollywood,606,30,9.8,63.77,8.5,55.27,Hit,4.9,149,Amazon Prime Video
+340,Rocketry: The Nambi Effect,01-Jul-22,336,Madhavan,503,Kollywood,633,25,2.5,45.25,5,40.25,Hit,8.7,157,Amazon Prime Video
+349,Naane Varuvean,29-Sep-22,344,Dhanush,503,Kollywood,715,30,9,35.6,6,29.6,Flop,6.2,122,Amazon Prime Video
+380,Pattas,17-Jan-20,362,Dhanush,503,Kollywood,606,40,8,43,6,37, Below Average,5.6,141,Amazon Prime Video
+395,Bigil,25-Oct-19,201,Joseph Vijay,503,Kollywood,665,80,62.8,295.85,94,201.85,Super Hit,6.7,179,Amazon Prime Video
+400,Petta,10-Jan-19,373,Rajinikanth,503,Kollywood,606,25,37.5,232.9,74,158.9,Super Hit,7.1,171,Amazon Prime Video
+405,Viswasam,11-Jan-19,114,Ajith Kumar,503,Kollywood,606,90,29,204.2,43,161.2,Super Hit,6.5,153,Amazon Prime Video
+412,Kanchana 3,19-Apr-19,259,Raghava Lawrence,503,Kollywood,652,40,20,130.2,15,115.2,Super Hit,4.2,164,Amazon Prime Video
+415,Nerkonda Paarvai,09-Aug-19,225,Ajith Kumar,503,Kollywood,621,50,27,126.7,25,101.7,Hit,7.7,157,Amazon Prime Video
+419,Kaappaan,20-Sep-19,248,Suriya,503,Kollywood,618,75,15.5,94.5,14,80.5,Average,6.2,166,Amazon Prime Video
+426,NGK,31-May-19,344,Suriya,503,Kollywood,606,65,19,62,12,50,Disaster,5.7,148,Amazon Prime Video
+435,Kadaram Kondan,19-Jul-19,387,Vikram,503,Kollywood,607,40,9,40,5,35,Flop,5.6,121,Amazon Prime Video
+439,Hero,20-Dec-19,158,Sivakarthikeyan,503,Kollywood,627,30,5,37.2,3.8,33.4,Below Average,6.3,164,Amazon Prime Video
+443,Thambi,20-Dec-19,177,Karthi,503,Kollywood,618,25,4,33.5,6,27.5,Below Average,6.7,149,Amazon Prime Video
+448,Mr.Local,03-May-19,395,Sivakarthikeyan,503,Kollywood,613,35,9,29,6.5,22.5,Disaster,3.3,155,Amazon Prime Video
+449,Super Deluxe,05-Apr-19,396,Vijay Sethupathi,503,Kollywood,733,25,2.2,27.8,6,21.8,Below Average,8.2,176,Netflix
+452,Thadam,01-Mar-19,398,Arun Vijay,503,Kollywood,626,14,1.2,26,4,22,Above Average,8.1,138,Amazon Prime Video
+455,Dhilluku Dhuddu 2,25-Jan-19,400,Santhanam,503,Kollywood,628,7,2.2,24,7.5,16.5,Super Hit,5.4,119,Amazon Prime Video
+474,Ponniyin Selvan: Part Two,28-Apr-23,310,Vikram,503,Kollywood,698,250,62.45,344.63,130,214.63,Hit,7.3,164,Amazon Prime Video
+480,Thunivu,11-Jan-23,225,Ajith Kumar,503,Kollywood,621,120,39.6,200,55.9,144.1,Hit,6.1,146,Netflix
+501,Maaveeran,14-Jul-23,419,Sivakarthikeyan,503,Kollywood,740,50,11.7,78.4,15.5,62.9,Hit,7.4,163,Amazon Prime Video
+504,Maamannan,29-Jun-23,303,Vadivelu,503,Kollywood,627,30,11,73.8,12.8,61,Super Hit,6.7,157,Netflix
+507,Jigarthanda DoubleX,12-Nov-23,373,Raghava Lawrence,503,Kollywood,610,50,4.15,64.55,12.3,52.25,Average,8,172,Netflix
+508,Chandramukhi 2,15-Sep-23,423,Raghava Lawrence,503,Kollywood,675,65,11.7,54.1,8,46.1,Disaster,2.6,172,Netflix
+517,Pichaikkaran 2,19-May-23,428,Vijay Antony,503,Kollywood,744,25,8.5,43.5,1.3,42.2,Hit,5.7,148,Disney+ Hotstar
+521,DD Returns,28-Jul-23,432,Santhanam,503,Kollywood,628,15,2.7,38.5,,38.5,Super Hit,6.2,124,ZEE5
+523,Pathu Thala,30-Mar-23,434,Silambarasan Rajendar,503,Kollywood,605,35,7.2,37.3,4.5,32.8,Flop,6.7,151,Amazon Prime Video
+528,Japan,10-Nov-23,439,Karthi,503,Kollywood,693,70,6.5,26.55,5.25,21.3,Disaster,3.2,156,Netflix
+542,The GOAT,05-Sep-24,264,Joseph Vijay,503,Kollywood,618,320,100.75,451.23,156.1,295.13,Hit,5.9,183,Netflix
+546,Vettaiyan,10-Oct-24,450,Amitabh Bachchan,503,Kollywood,605,200,67,253.2,82,171.2,Average,8,163,Amazon Prime Video
+554,Indian 2,12-Jul-24,132,Kamal Haasan,503,Kollywood,627,250,56.25,148.83,53,95.83,Disaster,3.9,180,Netflix
+569,Ayalaan,12-Jan-24,462,Sivakarthikeyan,503,Kollywood,752,75,6.8,76.5,17.85,58.65,Flop,6,155,Sun NXT
+570,Captain Miller,12-Jan-24,463,Dhanush,503,Kollywood,699,60,13.8,75.08,17,58.08,Average,6.5,157,Amazon Prime Video
+572,Thangalaan,15-Aug-24,147,Vikram,503,Kollywood,685,80,19.3,71.45,54.45,54.45,Flop,7.1,156,Netflix
+577,Garudan,03-Jul-24,362,Soori,503,Kollywood,637,20,6,60,50,50,Super Hit,7.1,133,Amazon Prime Video
+581,Meiyazhagan,27-Sep-24,165,Karthi,503,Kollywood,643,35,4,49.6,37.6,37.6,Super Hit,8.5,177,Netflix
+589,Sarfira,12-Jul-24,473,Akshay Kumar,503,Kollywood,647,85,4,33.25,28.75,28.75,Super Hit,7.3,155,Disney+ Hotstar
+590,Lal Salaam,09-Feb-24,474,Rajinikanth,503,Kollywood,665,60,5.7,32.65,20.65,20.65,Disaster,4.6,150,Netflix
+26,Yevadu,11-Jan-14,125,Ram Charan,505,Tollywood,618,: 40,: 8.6,: 57.5,: 2.2,: 55.3,: Below Average,5.9,165,Amazon Prime Video  
+318,Dhamaka,23-Dec-22,178,Ravi Teja,505,Tollywood,691,35,9.04,82.25,7.5,74.75,: Blockbuster,6.2,144,Netflix  
+344,HIT: The 2nd Case,02-Dec-22,340,Adivi Sesh,505,Tollywood,626,15,11.5,41.85,11.5,30.35,: Super Hit,7.1,150,Amazon Prime Video  
+350,Yashoda,11-Nov-22,345,amantha Ruth Prabhu,505,Tollywood,716,25,5.6,32.13,8.5,23.63,: Below Average,6.5,135,Amazon Prime Video  
+361,18 Pages,23-Dec-22,354,Nikhil Siddharth,505,Tollywood,638,15,3.6,22.96,3.3,19.66,: Average,7.1,135,Netflix  
+363,Kanam,09-Sep-22,356,Sathish,505,Tollywood,721,15,2.8,21.8,7,14.8,: Average,7.8,160,Amazon Prime Video  
+352,The Warriorr,14-Jul-22,162,Ram Pothineni,505,Tollywood,605,35,12.5,31.5,1.5,30,Flop,4.8,155,Disney+ Hotstar  
+44,Rangasthalam,30-Mar-18,128,Ram Charan,505,Tollywood,606,60,42,: 218.5,: 23.5,: 195,: Blockbuster,8.2,170,Amazon Prime Video  
+320,Acharya,29-Apr-22,140,Chiranjeevi,505,Tollywood,606,140,51,73.5,11.25,62.25,Disaster,3.8,152,Amazon Prime Video  
+49,Aravindha Sametha Veera Raghava,10-Oct-18,143,N.T. Rama Rao Jr.,505,Tollywood,606,65,56,158.6,48.8,109.8,Super Hit,7.3,162,Amazon Prime Video  
+197,S/O Satyamurthy,09-Apr-15,143,Allu Arjun,505,Tollywood,606,45,21,93,21,72,Hit,7.1,162,Amazon Prime Video  
+297,Sarkaru Vaari Paata,12-May-22,149,Mahesh Babu,505,Tollywood,606,100,68.5,188.5,26.5,162,Above Average,5.6,162,Amazon Prime Video  
+56,"Naa Peru Surya, Naa Illu India",04-May-18,150,Allu Arjun,505,Tollywood,606,65,40,100.3,21.3,79,Above Average,6.7,163,Amazon Prime Video  
+122,Spyder,27-Sep-17,107,Mahesh Babu,505,Tollywood,607,120,51,125,23,102,Flop,6.3,155,Amazon Prime Video  
+235,Dhruva,09-Dec-16,113,Ram Charan,505,Tollywood,607,50,20,89.6,10,79.6,Hit,7.7,165,Amazon Prime Video  
+25,Govindudu Andari Vaadele,01-Oct-14,124,Ram Charan,505,Tollywood,613,30,10,61,3.2,57.8,Above Average,5.7,160,Amazon Prime Video  
+240,A Aa,02-Jun-16,143,Nithiin,505,Tollywood,608,35,12.6,80,10,70,Hit,6.8,152,Amazon Prime Video  
+282,Rang De,26-Mar-21,169,Nithiin,505,Tollywood,608,25,6.5,27,4,23,Flop,6.3,130,ZEE5  
+255,Pushpa: The Rise - Part 1,17-Dec-21,128,Allu Arjun,505,Tollywood,621,150,63.7,350.1,36.3,313.8,Super Hit,7.6,179,Amazon Prime Video  
+234,Oopiri,25-Mar-16,125,Nagarjuna Akkineni,505,Tollywood,620,50,10.2,97.7,10.8,86.9,Super Hit,8,158,Amazon Prime Video  
+73,Jai Simha,11-Jan-18,110,Nandamuri Balakrishna,505,Tollywood,610,25,12.2,49.5,1.5,48,Hit,4.7,159,Amazon Prime Video  
+70,Devadas,28-Sep-18,163,Nagarjuna Akkineni,505,Tollywood,610,35,12,51.6,3.6,48,Average,6.5,159,Amazon Prime Video  
+88,Sailaja Reddy Alludu,15-Sep-18,180,Naga Chaitanya Akkineni,505,Tollywood,610,25,11.4,32.4,3.5,28.9,Flop,5.1,147,Amazon Prime Video  
+24,Aagadu,19-Sep-14,123,Mahesh Babu,505,Tollywood,612,65,24,62,7.8,54.2,Disaster,5.3,165,Amazon Prime Video  
+90,Krishnarjuna Yudham,13-Apr-18,182,Nani,505,Tollywood,612,25,9.7,28.6,2.9,25.7,Flop,5.8,156,Amazon Prime Video  
+165,Hello,21-Dec-17,122,Akhil Akkineni,505,Tollywood,616,30,4.2,36.7,6.4,30.3,Below Average,7.3,131,Amazon Prime Video  
+29,1 - Nenokkadine,10-Jan-14,128,Mahesh Babu,505,Tollywood,618,70,23,52.5,5.5,47,Disaster,8,170,Amazon Prime Video  
+273,Shyam Singha Roy,24-Dec-21,175,Nani,505,Tollywood,636,40,12,49,5.5,43.5,Average,7.6,155,Netflix  
+237,Nannaku Prematho,13-Jan-16,128,N.T. Rama Rao Jr.,505,Tollywood,627,50,24,88.4,13.7,74.7,Hit,7.5,168,Amazon Prime Video  
+46,Bharat Ane Nenu,19-Apr-18,140,Mahesh Babu,505,Tollywood,627,70,58,190.5,90.5,100,Super Hit,7.5,173,Amazon Prime Video  
+86,Hello Guru Prema Kosame,18-Oct-18,178,Ram Pothineni,505,Tollywood,630,15,4.2,35,2,33,Above Average,7,140,Amazon Prime Video  
+77,Tholi Prema,02-Feb-18,169,Varun Tej,505,Tollywood,638,15,9.5,44.1,4.1,40,Hit,7.2,137,Amazon Prime Video  
+93,Srinivasa Kalyanam,10-Aug-18,185,Nithiin,505,Tollywood,643,20,5.5,25.5,1.6,23.9,Flop,6.1,140,Amazon Prime Video  
+95,U-Turn,13-Sep-18,187,Samantha Ruth Prabhu,505,Tollywood,644,15,2,25,2.2,22.8,Hit,6.9,128,Amazon Prime Video  
+377,Bheeshma,21-Feb-20,189,Nithiin,505,Tollywood,615,25,13,52,10,42,Super Hit,6.6,150,Netflix  
+98,Nota,05-Oct-18,190,Vijay Deverakonda,505,Tollywood,647,25,7.3,23.5,2.6,20.9,Disaster,6.2,145,Amazon Prime Video  
+330,Major,03-Jun-22,191,Adivi Sesh,505,Tollywood,710,25,13.15,58.2,13,45.2,: Super Hit,8.1,150,Amazon Prime Video  
+101,Saakshyam,27-Jul-18,192,Sai Srinivas Bellamkonda,505,Tollywood,621,30,6.2,22.7,0.75,22,Disaster,4.6,166,Amazon Prime Video  
+102,Nela Ticket,25-May-18,193,Ravi Teja,505,Tollywood,649,25,6.7,20.1,0.5,19.6,Disaster,4.3,120,Amazon Prime Video  
+152,Rarandoi Veduka Chudham,26-May-17,193,Avantika,505,Tollywood,616,25,6.9,50,3.6,46.4,Above Average,5.6,145,Amazon Prime Video  
+239,Soggade Chinni Nayana,14-Jan-16,193,Nagarjuna Akkineni,505,Tollywood,620,30,6.5,82.3,5.7,76.6,Super Hit,6.3,145,Amazon Prime Video  
+325,Bangarraju,14-Jan-22,193,Nagarjuna Akkineni,505,Tollywood,647,30,13.3,61.8,3.5,58.3,Hit,5.6,150,ZEE5  
+103,Touch Chesi Chudu,02-Feb-18,194,Ravi Teja,505,Tollywood,632,25,8.7,20,: 1.5,: 18.5,: Disaster,4.7,147,Amazon Prime Video  
+104,Bãhubali 2: The Conclusion,28-Apr-17,195,Prabhas,505,Tollywood,606,250,217,1788,371,1417,All Time Blockbuster,8.2,167,Netflix  
+182,Bãhubali: The Beginning,10-Jul-15,195,Prabhas,505,Tollywood,606,180,73,650,134,516,All Time Blockbuster,8,159,Netflix  
+120,Jai Lava Kusa,03-Mar-20,208,N.T. Rama Rao Jr.,505,Tollywood,627,60,46,130,10.2,119.8,Above Average,6.8,150,Amazon Prime Video  
+238,Sardaar Gabbar Singh,08-Apr-16,208,Pawan Kalyan,505,Tollywood,632,75,40,85.5,7.1,78.4,Flop,4.6,164,Amazon Prime Video  
+124,Duvvada Jagannadham,22-Jun-17,210,Allu Arjun,505,Tollywood,632,50,33,117.1,12.3,104.8,Above Average,5.9,152,Amazon Prime Video  
+128,Katamarayudu,24-Mar-17,214,Pawan Kalyan,505,Tollywood,612,70,35,97.8,7.5,90.3,Below Average,5.5,146,Amazon Prime Video  
+269,Love Story,24-Sep-21,216,Naga Chaitanya Akkineni,505,Tollywood,638,30,16,59,13.4,45.6,Hit,6.8,155,Amazon Prime Video  
+307,Godfather,05-Oct-22,218,Chiranjeevi,505,Tollywood,621,100,28.85,107,20,87,: Flop,5.2,157,Netflix  
+134,Gautamiputra Satakarni,20-Jan-17,219,Nandamuri Balakrishna,505,Tollywood,657,45,21,78.6,11.1,67.5,Hit,6.3,131,Amazon Prime Video  
+137,MCA Middle Class Abbayi,21-Dec-17,221,Nani,505,Tollywood,612,25,15.5,70,7,63,Super Hit,6,144,Amazon Prime Video  
+260,Vakeel Saab,09-Apr-21,221,Pawan Kalyan,505,Tollywood,621,75,51.5,137.5,10.2,127.3,Hit,6.9,153,Amazon Prime Video  
+140,The Ghazi Attack,17-Feb-17,224,Rana Daggubati,505,Tollywood,659,20,5.9,62,5,57,Super Hit,7.5,116,Amazon Prime Video  
+149,Raja the Great,13-Oct-17,230,Ravi Teja,505,Tollywood,612,30,7.2,51.7,2.4,49.3,Hit,6.3,149,Amazon Prime Video  
+314,F3: Fun and Frustration,27-May-22,230,Venkatesh Daggubati,505,Tollywood,668,60,22.2,90,14.9,75.1,Below Average,4.7,148,Amazon Prime Video  
+160,Nene Raju Nene Mantri,11-Aug-17,238,Rana Daggubati,505,Tollywood,663,20,8.1,44.8,4.8,40,Super Hit,5.8,153,Amazon Prime Video  
+164,Guru,31-Mar-17,240,Venkatesh Daggubati,505,Tollywood,665,15,4.1,38.1,1.2,36.9,Super Hit,7.6,116,Amazon Prime Video  
+166,Jaya Janaki Nayaka,11-Aug-17,241,Sai Srinivas Bellamkonda,505,Tollywood,616,35,6.4,36.2,0.8,35.4,Flop,5.1,149,Amazon Prime Video  
+227,Sarrainodu,22-Apr-16,241,Allu Arjun,505,Tollywood,606,50,23,134,10,124,Super Hit,6.6,159,Amazon Prime Video  
+261,Akhanda,02-Dec-21,241,Nandamuri Balakrishna,505,Tollywood,606,50,29.6,117,13.7,103.3,Hit,6.8,167,Disney+ Hotstar  
+167,Paisa Vasool,01-Sep-17,242,Nandamuri Balakrishna,505,Tollywood,612,30,14.1,36,1.5,34.5,Flop,4.3,138,Amazon Prime Video  
+201,Temper,13-Feb-15,242,N.T. Rama Rao Jr.,505,Tollywood,605,40,20,74,14,60,Super Hit,7.4,147,Amazon Prime Video  
+331,Liger,25-Aug-22,242,Vijay Deverakonda,505,Tollywood,680,100,24.2,56.18,7.6,48.58,Disaster,2.6,140,Disney+ Hotstar  
+168,Raju Gari Gadhi 2,12-Oct-17,243,Samantha Ruth Prabhu,505,Tollywood,641,25,8.4,35.6,2.2,33.4,Average,5.3,117,Amazon Prime Video  
+171,Vunnadhi Okate Zindagi,29-Sep-17,246,Ram Pothineni,505,Tollywood,647,15,7.6,30.8,2.3,28.5,Above Average,6.4,152,Amazon Prime Video  
+179,Winner,24-Feb-17,253,Sai Dharam Tej,505,Tollywood,606,25,9,25,0.7,24.3,Disaster,4.6,155,Amazon Prime Video  
+180,Goutham Nanda,28-Jul-17,254,Gopichand,505,Tollywood,627,20,6.1,20.4,0.4,20,Flop,6.3,155,Amazon Prime Video  
+198,Rudhramadevi,18-Oct-15,261,Anushka Shetty,505,Tollywood,674,80,11,91,5,86,Below Average,5.6,157,Amazon Prime Video  
+210,Kick 2,21-Aug-15,268,Ravi Teja,505,Tollywood,615,30,10,36.6,2.1,34.5,Flop,5,170,Amazon Prime Video  
+244,Brahmotsavam,20-May-16,288,Mahesh Babu,505,Tollywood,636,75,25,58.3,7.8,50.5,Disaster,4,156,Amazon Prime Video  
+279,Most Eligible Bachelor,15-Oct-21,307,Akhil Akkineni,505,Tollywood,636,30,8.1,38,4.3,33.7,Below Average,6.2,170,Netflix  
+299,Bheemla Nayak,25-Feb-22,315,Pawan Kalyan,505,Tollywood,627,90,57.1,158.5,28,130.5,Hit,6.3,130,Disney+ Hotstar  
+300,Radhe Shyam,11-Mar-22,316,Prabhas,505,Tollywood,636,300,66.3,149.5,26.3,123.2,Disaster,5.2,138,Netflix  
+323,Bimbisara,05-Aug-22,329,Nandamuri Kalyan Ram,505,Tollywood,708,40,12,64.6,6.5,58.1,Hit,6.8,146,ZEE5  
+348,Ante Sundharaniki,10-Jun-22,343,Nani,505,Tollywood,630,30,10.3,36.5,11,25.5,: Flop,7.6,173,Netflix  
+359,Khiladi,11-Feb-22,352,Ravi Teja,505,Tollywood,607,40,8.2,23.5,1.8,21.7,Disaster,5.2,154,Amazon Prime Video  
+388,Entha Manchivaadavuraa,15-Jan-20,185,Nandamuri Kalyan Ram,505,Tollywood,606,15,4.2,25,2.9,22.1,Hit,5.2,152,Amazon Prime Video  
+389,World Famous Lover,13-Feb-20,369,Vijay Deverakonda,505,Tollywood,608,35,7.6,20,3.1,16.9,Disaster,5,154,Netflix  
+398,Sye Raa Narasimha Reddy,27-Sep-19,113,Chiranjeevi,505,Tollywood,685,25,85,246.6,30,216.6,Average,7.2,167,Amazon Prime Video  
+406,Maharshi,10-May-19,125,Mahesh Babu,505,Tollywood,606,90,48,176,22,154,Hit,7.2,176,Amazon Prime Video  
+417,Vinaya Vidheya Rama,11-Jan-19,241,Ram Charan,505,Tollywood,606,75,42,97.9,3.9,94,Flop,3.3,146,Amazon Prime Video  
+427,Majili,05-Apr-19,229,Naga Chaitanya Akkineni,505,Tollywood,636,20,10,60,10,50,Super Hit,7.3,154,Amazon Prime Video  
+432,Jersey,18-Apr-19,348,Nani,505,Tollywood,718,20,8.2,51.7,12,39.7,Super Hit,8.5,157,Netflix  
+434,Venky Mama,12-Dec-19,208,Venkatesh Daggubati,505,Tollywood,610,35,12.2,47.6,5.3,42.3,Average,5.4,149,Amazon Prime Video  
+437,Gang Leader,12-Sep-19,122,Nani,505,Tollywood,691,25,11.2,39.4,5.4,34,Average,7.6,155,Amazon Prime Video  
+438,Gaddalakonda Ganesh,20-Sep-19,210,Varun Tej,505,Tollywood,603,30,7.2,38,5,33,Average,6.3,130,Disney+ Hotstar
+440,Dear Comrade,26-Jul-19,389,Vijay Deverakonda,505,Tollywood,680,35,14,37,6,31,Flop,7.3,169,Amazon Prime Video
+445,NTR: Kathanayakudu,08-Jan-19,219,Nandamuri Balakrishna,505,Tollywood,633,50,12.6,31.5,7,24.5,Disaster,5.8,169,Amazon Prime Video
+451,Chitralahari,12-Apr-19,246,Sai Dharam Tej,505,Tollywood,608,15,6.6,27.1,2,25.1,Hit,7.1,131,Amazon Prime Video
+454,Rakshasudu,02-Aug-19,352,Sai Srinivas Bellamkonda,505,Tollywood,607,10,3.9,24.2,3,21.2,Hit,7.9,122,ZEE5
+460,Mr. Majnu,24-Jan-19,169,Akhil Akkineni,505,Tollywood,638,30,7.5,21,1.6,19.4,Disaster,6.1,145,ZEE5
+462,118,01-Mar-19,405,Nandamuri Kalyan Ram,505,Tollywood,714,12,2.8,20.8,0,20.8,Average,6.4,120,Disney+ Hotstar
+488,Dasara,30-Mar-23,411,Nani,505,Tollywood,698,65,37,118.5,22,96.5,Super Hit,6.6,156,Netflix
+492,Bhagavanth Kesari,18-Oct-23,230,Nandamuri Balakrishna,505,Tollywood,627,90,25.5,114.5,14.8,99.7,Below Average,5.9,164,Amazon Prime Video
+493,Bro,27-Jul-23,413,Sai Dharam Tej,505,Tollywood,737,100,43.7,114,16.8,97.2,Flop,6.1,134,Netflix
+503,Kushi,31-Aug-23,229,Vijay Deverakonda,505,Tollywood,608,50,25.85,76,19,57,Average,5.4,163,Netflix
+510,Skanda: The Attacker,28-Sep-23,241,Ram Pothineni,505,Tollywood,619,65,15.6,53,4.25,48.75,Disaster,4.2,167,Disney+ Hotstar
+512,Tiger Nageswara Rao,21-Oct-23,425,Ravi Teja,505,Tollywood,621,50,8.5,50,5,45,Flop,6,172,Amazon Prime Video
+518,Bholaa Shankar,11-Aug-23,429,Chiranjeevi,505,Tollywood,621,100,23.15,42.25,6.25,36,Disaster,3.3,159,Netflix
+534,Das Ka Dhamki,22-Mar-23,444,Vishwak Sen,505,Tollywood,732,15,8.5,22.8,2.7,20.1,Hit,6.1,140,Amazon Prime Video
+543,Devara: Part 1,26-Sep-24,140,N.T. Rama Rao Jr.,505,Tollywood,627,250,142,421.6,78.85,342.75,Hit,6.4,176,Amazon Prime Video
+549,Guntur Kaaram,12-Jan-24,143,Mahesh Babu,505,Tollywood,606,150,68.7,180.5,31,149.5,Below Average,5.4,159,Amazon Prime Video
+564,Saripodhaa Sanivaaram,28-Aug-24,343,Nani,505,Tollywood,618,60,19.65,100.03,26,74.03,Super Hitt,7,166,Amazon Prime Video
+587,Naa Saami Ranga,14-Jan-24,471,Nagarjuna Akkineni,505,Tollywood,698,30,6.5,37.31,35.81,35.81,Flop,4.5,150,Amazon Prime Video
+327,Cirkus,23-Dec-22,105,Ranveer Singh,501,Bollywood,620,70,9.38,60.6,15,45.6,: Disaster,4.4,139,Netflix
+1,PK,19-Dec-14,101,Aamir Khan,501,Bollywood,601,85,26.6,792,303,489,All Time Blockbuster,8.1,153,Netflix
+2,Happy New Year,24-Oct-14,102,Shah Rukh Khan,501,Bollywood,602,150,61.9,397,102,295,Hit,5,180,Netflix
+3,Kick,25-Jul-14,103,Salman Khan,501,Bollywood,603,100,26.4,378,68,310,Super Hit,6,146,Netflix
+4,Bang Bang,02-Oct-14,104,Hrithik Roshan,501,Bollywood,604,160,27.5,340,70,270,Super Hit,5.6,153,Disney+ Hotstar
+5,Singham Returns,15-Aug-14,105,Ajay Devgn,501,Bollywood,605,80,32.1,216.5,16.5,200,Super Hit,5.7,142,Netflix
+6,Jai Ho,24-Jan-14,106,Salman Khan,501,Bollywood,606,65,17.8,186.3,36.3,150,Above Average,5,135,Disney+ Hotstar
+7,Holiday,06-Jun-14,107,Akshay Kumar,501,Bollywood,607,50,12.1,178.3,24.9,153.4,Hit,7.2,160,Netflix
+18,Action Jackson,05-Dec-14,117,Ajay Devgn,501,Bollywood,607,80,10.3,88.7,10.7,78,Flop,3.4,144,Disney+ Hotstar
+38,Race 3,15-Jun-18,135,Anil Kapoor,501,Bollywood,607,150,44,300,83,217,Flop,1.9,160,Amazon Prime Video
+184,Dilwale,18-Dec-15,105,Shah Rukh Khan,501,Bollywood,613,165,21,388,176,212,Hit,5.1,158,Netflix
+8,2 States,18-Apr-14,108,Arjun Kapoor,501,Bollywood,608,50,12.4,173,30.8,142.2,Super Hit,6.9,149,Netflix
+12,Humpty Sharma Ki Dulhania,11-Jul-14,112,Varun Dhawan,501,Bollywood,608,35,9.1,119.6,12.9,106.7,Hit,6,133,Netflix
+115,Badrinath Ki Dulhania,10-Mar-17,112,Varun Dhawan,501,Bollywood,608,40,12.2,201,39,162,Super Hit,6.1,139,Amazon Prime Video
+48,Zero,21-Dec-18,142,Shah Rukh Khan,501,Bollywood,608,200,23,178,57.2,120.8,Disaster,5.2,164,Netflix
+256,Sooryavanshi,05-Nov-21,105,Akshay Kumar,501,Bollywood,621,180,39.5,293,62.2,230.8,Hit,5.9,145,Netflix
+52,Raid,16-Mar-18,146,Ajay Devgn,501,Bollywood,621,35,12,154.1,22,132.1,Hit,7.4,122,Disney+ Hotstar
+374,Malang - Unleash the Madness,07-Feb-20,109,Aditya Roy Kapoor,501,Bollywood,609,50,9.8,80,10,70,Average,6.5,135,Netflix
+42,Hichki,23-Mar-18,137,Rani Mukerji,501,Bollywood,620,30,5,236.4,177.4,59,Super Hit,7.5,116,Amazon Prime Video
+11,Gunday,14-Feb-14,111,Ranveer Singh,501,Bollywood,611,55,16.1,130.8,24.7,106.1,Below Average,2.7,152,Amazon Prime Video
+21,Main Tera Hero,04-Apr-14,120,Varun Dhawan,501,Bollywood,615,40,6.6,77.2,8.5,68.7,Above Average,5.1,128,Disney+ Hotstar
+112,Judwaa 2,29-Sep-17,120,Varun Dhawan,501,Bollywood,615,65,16,227.5,35,192.5,Super Hit,3.6,145,Netflix
+22,Heropanti,23-May-14,121,Tiger Shroff,501,Bollywood,616,25,6.5,75.8,4.7,71.1,Super Hit,5.2,146,Amazon Prime Video
+129,Half Girlfriend,19-May-17,109,Shraddha Kapoor,501,Bollywood,636,50,10.3,97.6,16.3,81.3,Average,4.6,135,Amazon Prime Video
+328,Ek Villain Returns,29-Jul-22,109,John Abraham,501,Bollywood,709,75,10.35,60,9,51,Disaster,4.4,129,Netflix
+37,Thugs of Hindostan,07-Nov-18,134,Lloyd Owen,501,Bollywood,625,275,76,327,133.5,194,Flop,4.1,164,Amazon Prime Video
+45,Raazi,11-May-18,139,Alia Bhatt,501,Bollywood,627,30,7.5,195,37,157,Super Hit,7.7,138,Amazon Prime Video
+50,Gold,15-Aug-18,144,Krishan Tandon,501,Bollywood,629,80,38,158,17,141,Average,7.3,151,Amazon Prime Video
+54,Veere Di Wedding,01-Jun-18,148,Kareena Kapoor,501,Bollywood,631,30,10.7,: 140,: 35,: 105,: Average,3.3,135,Amazon Prime Video
+376,Chhapaak,10-Jan-20,139,Deepika Padukone,501,Bollywood,633,50,4.7,55.5,15,40.5,Flop,5.4,120,Disney+ Hotstar
+310,Bhediya,25-Nov-22,141,Varun Dhawan,501,Bollywood,641,60,12.06,94.91,13.5,81.41,Average,6.7,156,JioCinema
+155,Munna Michael,21-Jul-17,121,Tiger Shroff,501,Bollywood,662,45,6.7,48.2,2.6,45.6,Flop,3.4,140,Amazon Prime Video
+371,Baaghi 3,06-Mar-20,136,Tiger Shroff,501,Bollywood,651,100,26.5,137,23,114,Flop,2.2,143,Disney+ Hotstar
+185,Bajirao Mastani,18-Dec-15,133,Ranveer Singh,501,Bollywood,670,140,12.8,362,99,263,Hit,7.3,158,Amazon Prime Video
+296,Gangubai Kathiawadi,25-Feb-22,133,Alia Bhatt,501,Bollywood,701,180,16,211.5,56,155.5,Average,7.8,152,Netflix
+189,Any Body Can Dance 2,19-Jun-15,135,Prabhu Deva,501,Bollywood,672,60,15,165.9,19.3,146.6,Hit,5.4,154,Disney+ Hotstar
+245,A Flying Jatt,25-Aug-16,135,Tiger Shroff,501,Bollywood,688,45,7.1,56.2,4.1,52.1,Flop,3.1,151,Amazon Prime Video
+358,Heropanti 2,29-Apr-22,136,Kriti Sanon,501,Bollywood,719,80,9,28,2.7,25.3,Disaster,2.3,145,Amazon Prime Video
+322,Raksha Bandhan,11-Aug-22,142,Akshay Kumar,501,Bollywood,707,70,12.7,68.38,11,57.38,Disaster,5.4,108,ZEE5
+303,Laal Singh Chaddha,11-Aug-22,196,Sharik Khan Jr.,501,Bollywood,608,180,23.85,133.5,61,72.5,Disaster,5.6,159,Netflix
+109,Toilet - Ek Prem Katha,11-Aug-17,199,Akshay Kumar,501,Bollywood,608,75,15,316.9,130.5,186.4,Super Hit,7.2,155,Amazon Prime Video
+110,Raees,25-Jan-17,200,Shah Rukh Khan,501,Bollywood,605,100,20.4,286.5,95.5,191,Above Average,6.6,143,Netflix
+113,Kaabil,25-Jan-17,202,Hrithik Roshan,501,Bollywood,609,90,10.4,212.8,67,145.8,Above Average,7.1,139,Amazon Prime Video
+114,Tubelight,23-Jun-17,203,Salman Khan,501,Bollywood,653,100,21.2,211.2,45.6,165.6,Flop,3.9,136,Amazon Prime Video
+181,Bajrangi Bhaijaan,17-Jul-15,203,Salman Khan,501,Bollywood,669,90,27.2,922.1,489.7,432.4,All Time Blockbuster,8.1,163,Disney+ Hotstar
+116,Jolly LLB 2,10-Feb-17,204,Akshay Kumar,501,Bollywood,642,85,13.2,197.3,34.8,162.5,Hit,7.2,137,Disney+ Hotstar
+117,Mom,07-Jul-17,205,Sridevi,501,Bollywood,654,35,3,178.5,126.7,51.8,Hit,7.2,146,Netflix
+119,Jab Harry Met Sejal,04-Aug-17,207,Shah Rukh Khan,501,Bollywood,608,90,15.2,153.4,64.1,89.3,Below Average,5.1,143,Amazon Prime Video
+123,Baadshaho,01-Sep-17,209,Ajay Devgn,501,Bollywood,651,85,12.6,123.4,15,108.4,Below Average,4.9,124,Netflix
+130,Mubarakan,28-Jul-17,215,Anil Kapoor,501,Bollywood,630,60,5.1,93.1,16.3,76.8,Average,5.6,156,Netflix
+188,Welcome Back,04-Sep-15,215,John Abraham,501,Bollywood,649,75,14.4,168.6,38.3,130.3,Average,4.3,152,Amazon Prime Video
+294,Bhool Bhulaiyaa 2,20-May-22,215,Tabu,501,Bollywood,628,80,20.6,265.5,49,216.5,: Blockbuster,5.7,143,Netflix
+132,Jagga Jasoos,14-Jul-17,217,Ranbir Kapoor,501,Bollywood,656,120,8.5,83.3,8.1,75.2,Disaster,6.4,161,Disney+ Hotstar
+136,Sachin,26-May-17,220,Sachin Tendulkar,501,Bollywood,658,35,8.6,70.8,5.7,65.1,Hit,8.5,138,Amazon Prime Video
+138,Shubh Mangal Saavdhan,01-Sep-17,222,Ayushmann Khurrana,501,Bollywood,630,20,2.7,64,4.6,59.4,Hit,6.9,119,Amazon Prime Video
+143,Bareilly Ki Barfi,18-Aug-17,226,Ayushmann Khurrana,501,Bollywood,630,20,3.1,58.5,10.7,47.8,Hit,7.5,116,Netflix
+384,Panga,24-Jan-20,226,Kangana Ranaut,501,Bollywood,718,40,2.7,41.7,7.2,34.5,Flop,6.8,131,Disney+ Hotstar
+144,Naam Shabana,01-Jan-20,227,Akshay Kumar,501,Bollywood,627,25,5.1,57.6,6.5,51.1,Below Average,6.2,147,Amazon Prime Video
+145,Tumhari Sulu,24-Nov-17,228,Vidya Balan,501,Bollywood,620,20,2.8,56.4,10.1,46.3,Hit,7,150,Amazon Prime Video
+153,Phillauri,24-Mar-17,233,Anushka Sharma,501,Bollywood,660,25,4.1,49.7,12.1,37.6,Average,6.1,138,Amazon Prime Video
+183,Prem Ratan Dhan Payo,13-Nov-15,255,Salman Khan,501,Bollywood,611,180,66.2,405.8,95.8,310,Above Average,4.4,164,Disney+ Hotstar
+339,Uunchai,11-Nov-22,255,Amitabh Bachchan,501,Bollywood,713,40,3.15,48.32,9.5,38.82,Average,7,173,ZEE5
+191,Dil Dhadakne Do,05-Jun-15,256,Anil Kapoor,501,Bollywood,608,80,10.5,150,43.3,106.7,Below Average,7,170,Netflix
+192,Baby,23-Jan-15,257,Akshay Kumar,501,Bollywood,607,65,10,142.9,13.9,129,Hit,7.9,159,Aha
+193,Piku,08-May-15,258,Deepika Padukone,501,Bollywood,620,40,6,141.2,34,107.2,Hit,7.6,123,SonyLIV
+213,Dangal,22-Dec-16,271,Aamir Khan,501,Bollywood,679,70,58,2122.3,1535.3,587,All Time Blockbuster,8.3,161,Disney+ Hotstar
+216,Ae Dil Hai Mushkil,28-Oct-16,272,Ranbir Kapoor,501,Bollywood,681,70,13.2,240.7,82.2,158.4,Hit,5.8,158,Amazon Prime Video
+217,Airlift,22-Jan-16,273,Akshay Kumar,501,Bollywood,634,35,12.5,228,45,183,Super Hit,7.9,130,JioCinema
+218,Rustom,12-Aug-16,274,Akshay Kumar,501,Bollywood,654,50,14.1,216,39.2,177,Super Hit,7,148,ZEE5
+220,Housefull 3,03-Jun-16,276,Akshay Kumar,501,Bollywood,615,85,15.2,185.7,31.5,154.2,Hit,4.9,140,Disney+ Hotstar
+221,Fan,15-Apr-16,277,Shah Rukh Khan,501,Bollywood,627,110,19.1,182.2,69,113.2,Average,6.9,138,Amazon Prime Video
+224,Shivaay,28-Oct-16,279,Ajay Devgn,501,Bollywood,683,100,10.2,147.2,8.7,138.5,Below Average,6.1,153,Amazon Prime Video
+336,Runway 34,29-Apr-22,279,Ajay Devgn,501,Bollywood,664,80,5,50.7,9,41.7,Disaster,7,145,Amazon Prime Video
+226,Dear Zindagi,25-Nov-16,280,Alia Bhatt,501,Bollywood,636,50,8.8,136.1,43.7,92.4,Hit,7.4,151,Netflix
+229,Dishoom,29-Jul-16,281,John Abraham,501,Bollywood,684,50,11,119.5,25,94.5,Average,5.2,124,Disney+ Hotstar
+230,Mohenjo Daro,12-Aug-16,282,Hrithik Roshan,501,Bollywood,685,115,8.9,107.8,29.2,78.6,Disaster,5.6,155,Netflix
+231,Pink,16-Sep-16,283,Amitabh Bachchan,501,Bollywood,654,30,4.3,104.2,15.9,88.3,Super Hit,8,136,Disney+ Hotstar
+233,Befikre,09-Dec-16,284,Vaani Kapoor,501,Bollywood,608,65,10.4,99.4,15.7,83.7,Below Average,4.1,130,Amazon Prime Video
+243,Force 2,18-Nov-16,287,John Abraham,501,Bollywood,651,40,6.1,58.7,10.5,48.2,Flop,6.2,127,Disney+ Hotstar
+246,Kahaani 2,02-Dec-16,289,Vidya Balan,501,Bollywood,689,20,4.3,55.9,11.3,44.6,Average,6.5,127,ZEE5
+248,Azhar,13-May-16,291,Emraan Hashmi,501,Bollywood,682,35,6.4,50.1,5.4,44.7,Flop,5.7,130,Amazon Prime Video
+249,Happy Bhag Jayegi,24-Aug-18,292,Diana Penty,501,Bollywood,630,20,2.3,46.5,6.5,40,Hit,6.4,126,ZEE5
+258,83,23-Dec-21,297,Ranveer Singh,501,Bollywood,692,200,27.6,193,64,129,Flop,7.5,162,Disney+ Hotstar
+270,Antim: The Final Truth,25-Nov-21,302,Salman Khan,501,Bollywood,605,50,8.9,58.5,11.7,46.8,Below Average,6.2,138,ZEE5
+272,Bellbottom,19-Aug-21,304,Akshay Kumar,501,Bollywood,618,160,2.75,53.7,14.3,39.4,Disaster,6.1,123,Amazon Prime Video
+289,Brahmastra Part One: Shiva,09-Sep-22,311,Amitabh Bachchan,501,Bollywood,673,400,70,431,115.5,315.5,Below Average,5.6,167,Disney+ Hotstar
+301,Jug Jugg Jeeyo,24-Jun-22,317,Varun Dhawan,501,Bollywood,702,100,11.8,139.5,38.3,101.2,Average,6.1,148,Amazon Prime Video
+302,Vikram Vedha,29-Sep-22,318,Saif Ali Khan,501,Bollywood,621,150,20.67,135.44,42.34,93.1,Flop,7.1,160,ZEE5
+313,Samrat Prithviraj,03-Jun-22,326,Akshay Kumar,501,Bollywood,696,220,17.5,90.55,10,80.55,Disaster,5.6,135,Amazon Prime Video
+319,Bachchhan Paandey,18-Mar-22,328,Akshay Kumar,501,Bollywood,649,165,13.25,74.2,14,60.2,Disaster,5,147,Amazon Prime Video
+326,Shamshera,22-Jul-22,331,Ranbir Kapoor,501,Bollywood,698,150,15.15,60.75,13,47.75,Disaster,4.7,178,Amazon Prime Video
+337,Thank God,25-Oct-22,334,Sidharth Malhotra,501,Bollywood,712,70,12.55,48.99,6.5,42.49,Disaster,5.6,121,Amazon Prime Video
+342,Doctor G,14-Oct-22,338,Ayushmann Khurrana,501,Bollywood,620,25,5.07,44.1,11,33.1,Average,6.6,124,Netflix
+354,Jersey,22-Apr-22,348,Shahid Kapoor,501,Bollywood,718,60,4.7,30.75,5.75,25,Disaster,7.3,170,Netflix
+357,Badhaai Do,11-Feb-22,351,Rajkummar Rao,501,Bollywood,720,25,1.95,28.15,3,25.15,Flop,7,147,Netflix
+360,Jhund,04-Mar-22,353,Amitabh Bachchan,501,Bollywood,682,20,2.75,23,5.7,17.3,Flop,7.4,176,ZEE5
+362,Attack,01-Apr-22,355,Jacqueline Fernandez,501,Bollywood,622,55,5.15,22,3.2,18.8,Disaster,6.8,121,ZEE5
+366,Chup,23-Sep-22,358,Dulquer Salmaan,501,Bollywood,722,20,4,20,6,14,Flop,7.5,135,ZEE5
+373,Shubh Mangal Zyada Saavdhan,21-Feb-20,360,Ayushmann Khurrana,501,Bollywood,724,50,14.2,83,10,73,Average,5.8,117,Amazon Prime Video
+379,Thappad,28-Feb-20,361,Taapsee Pannu,501,Bollywood,647,22,3.1,44.5,8.1,36.4,Hit,7,142,Amazon Prime Video
+383,Jawaani Jaaneman,31-Jan-20,365,Saif Ali Khan,501,Bollywood,620,40,3.2,42,9.5,32.5,Flop,6.5,119,Amazon Prime Video
+385,Bhoot: Part One - The Haunted Ship,21-Feb-20,366,Vicky Kaushal,501,Bollywood,661,30,5.1,39.3,2.8,36.5,Below Average,5.4,114,Amazon Prime Video
+394,Bharat,05-Jun-19,111,Salman Khan,501,Bollywood,610,60,65,321,70,251,Hit,4.7,150,Amazon Prime Video
+396,Housefull 4,25-Oct-19,328,Akshay Kumar,501,Bollywood,725,25,30.5,296,49,247,Hit,3.6,145,Disney+ Hotstar
+399,Gully Boy,15-Feb-19,256,Ranveer Singh,501,Bollywood,727,75,20,235.7,71,164.7,Super Hit,7.9,154,Amazon Prime Video
+401,Total Dhamaal,22-Feb-19,334,Ajay Devgn,501,Bollywood,684,5,17,232.1,48.5,183.6,Hit,4.2,130,Disney+ Hotstar
+402,Dabangg 3,20-Dec-19,117,Salman Khan,501,Bollywood,649,25,39,218,40,178,Below Average,3,160,Disney+ Hotstar
+403,Super 30,12-Jul-19,374,Hrithik Roshan,501,Bollywood,633,90,20,210,39,171,Hit,7.9,154,Disney+ Hotstar
+404,Kesari,21-Mar-19,375,Akshay Kumar,501,Bollywood,728,0,27,208.8,25,183.8,Hit,7.4,150,Amazon Prime Video
+407,Kalank,19-Apr-19,108,Kriti Sanon,501,Bollywood,636,50,30,146.8,47,99.8,Disaster,3.6,166,Amazon Prime Video
+408,Manikarnika: The Queen of Jhansi,25-Jan-19,376,Kangana Ranaut,501,Bollywood,723,0,8.5,142,25.4,116.6,Below Average,6.4,148,ZEE5
+410,De De Pyaar De,17-May-19,377,Ajay Devgn,501,Bollywood,608,75,17.5,139,16,123,Hit,6.5,135,Amazon Prime Video
+418,Student of the Year 2,10-May-19,380,Tiger Shroff,501,Bollywood,729,75,14,95.5,11,84.5,Flop,2.2,146,Amazon Prime Video
+463,Jawan,07-Sep-23,201,Shah Rukh Khan,501,Bollywood,621,300,129.1,1160,400,760,All Time Blockbuster,6.9,169,Netflix
+464,Pathaan,25-Jan-23,104,Shah Rukh Khan,501,Bollywood,651,250,104.8,1055,397.5,657.5,All Time Blockbuster,5.8,146,Amazon Prime Video
+470,Tiger 3,12-Nov-23,277,Salman Khan,501,Bollywood,651,250,94,464,124.5,339.5,Hit,5.7,155,Amazon Prime Video
+471,Dunki,21-Dec-23,101,Taapsee Pannu,501,Bollywood,734,120,58,454,182,272,Hit,6.5,160,Netflix
+473,Rocky Aur Rani Kii Prem Kahaani,28-Jul-23,272,Ranveer Singh,501,Bollywood,702,150,23.1,357.5,175,182.5,Hit,6.5,168,Amazon Prime Video
+477,Tu Jhoothi Main Makkaar,03-May-23,145,Ranbir Kapoor,501,Bollywood,630,75,22.1,223,48,175,Hit,6,150,Netflix
+478,OMG 2,11-Aug-23,408,Pankaj Tripathi,501,Bollywood,620,70,12.1,221.75,43,178.75,Super Hit,7.5,156,Netflix
+483,Dream Girl 2,25-Aug-23,410,Ayushmann Khurrana,501,Bollywood,608,75,12.6,142.2,16.2,126,Hit,5.2,134,Netflix
+484,Sam Bahadur,01-Dec-23,139,Vicky Kaushal,501,Bollywood,736,60,8.4,130.3,18.5,111.8,Hit,7.7,150,ZEE5
+486,Fukrey 3,29-Sep-23,211,Pulkit Samrat,501,Bollywood,733,40,12.4,127.75,14.5,113.25,Hit,5.5,147,Amazon Prime Video
+489,Satyaprem Ki Katha,30-Jun-23,412,Kartik Aaryan,501,Bollywood,704,60,9.9,118.5,26,92.5,Hit,6.7,146,Amazon Prime Video
+491,Zara Hatke Zara Bachke,02-Jun-23,379,Vicky Kaushal,501,Bollywood,702,35,6.5,116,11.3,104.7,Super Hit,6,132,JioCinema
+514,Shehzada,17-Feb-23,281,Kartik Aaryan,501,Bollywood,610,70,8,47.8,10,37.8,Disaster,4.5,142,Netflix
+531,Selfiee,24-Feb-23,317,Akshay Kumar,501,Bollywood,732,100,4.3,24.6,4.5,20.1,Disaster,5.7,148,Disney+ Hotstar
+544,Fighter,25-Jan-24,104,Hrithik Roshan,501,Bollywood,606,250,35.05,358.83,254.83,254.83,Hit,6.2,166,Netflix
+548,Shaitaan,08-Mar-24,374,Ajay Devgn,501,Bollywood,748,80,21.5,213.55,37.5,176.05,Super Hitt,6.5,132,Netflix
+553,Crew,29-Mar-24,454,Tabu,501,Bollywood,620,60,19.5,151.35,55,96.35,Super Hitt,5.9,118,Netflix
+555,Teri Baaton Mein Aisa Uljha Jiya,09-Feb-24,455,Shahid Kapoor,501,Bollywood,749,70,13.5,139,37.75,101.25,Hit,6.2,141,Amazon Prime Video
+559,Bad Newz,19-Jul-24,458,Vicky Kaushal,501,Bollywood,630,80,14,113.75,37,76.75,Average,4.9,142,Amazon Prime Video
+560,Bade Miyan Chote Miyan,10-Apr-24,111,Akshay Kumar,501,Bollywood,639,250,31.5,111.49,33,78.49,Disaster,3.9,163,Netflix
+561,Article 370,23-Feb-24,459,Yami Gautam,501,Bollywood,627,35,8.6,105.01,12.5,92.51,Super Hitt,7.8,158,Netflix
+567,Chandu Champion,14-Jun-24,203,Kartik Aaryan,501,Bollywood,751,90,7.6,87.25,13.75,73.5,Flop,7.9,142,Amazon Prime Video
+573,Maidaan,10-Apr-24,138,Ajay Devgn,501,Bollywood,692,100,10.4,71.15,63.4,63.4,Disaster,8,181,Amazon Prime Video
+575,Srikanth,10-May-24,465,Rajkummar Rao,501,Bollywood,633,40,2.65,61.4,57.8,57.8,Above Average,7.4,134,Netflix
+578,Khel Khel Mein,15-Aug-24,292,Akshay Kumar,501,Bollywood,620,100,7.55,55.25,45.25,45.25,Disaster,6.7,135,Netflix
+579,Yodha,15-Mar-24,467,Sidharth Malhotra,501,Bollywood,627,60,5.85,53.5,45,45,Flop,5.7,130,Amazon Prime Video
+580,Mr. & Mrs. Mahi,31-May-24,468,Rajkummar Rao,501,Bollywood,718,40,7.6,51.25,41.75,41.75,Below Average,5.9,139,Netflix
+583,Kill,05-Jul-24,469,Lakshya,501,Bollywood,621,20,1.5,47.25,28.75,28.75,Super Hit,7.6,105,Disney+ Hotstar
+584,Madgaon Express,22-Mar-24,470,Divyendu Sharma,501,Bollywood,620,30,1.8,46.2,42.8,42.8,Hit,7,143,Amazon Prime Video
+591,Swatantrya Veer Savarkar,22-Mar-24,475,Randeep Hooda,501,Bollywood,633,25,1.5,31.86,29.11,29.11,Disaster,7.7,176,ZEE5
+596,Laapataa Ladies,01-Mar-24,479,Nitanshi Goel,501,Bollywood,620,8,1.4,27.06,24.31,24.31,Disaster,8.4,122,Netflix
+597,Merry Christmas,12-Jan-24,480,Vijay Sethupathi,501,Bollywood,753,50,3.45,26.3,23.25,23.25,Hit,6.9,144,Netflix
