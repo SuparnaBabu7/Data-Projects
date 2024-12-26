@@ -14,7 +14,7 @@ pep_msh_pep,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,"Pepperoni, Mus
 pepperoni,The Pepperoni Pizza,Classic,"Mozzarella Cheese, Pepperoni"
 the_greek,The Greek Pizza,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions"
 brie_carre,The Brie Carre Pizza,Supreme,"Brie Carre Cheese, Prosciutto, Caramelized Onions, Pears, Thyme, Garlic"
-calabrese,The Calabrese Pizza,Supreme,"‘Nduja Salami, Pancetta, Tomatoes, Red Onions, Friggitello Peppers, Garlic"
+calabrese,The Calabrese Pizza,Supreme,"â€˜Nduja Salami, Pancetta, Tomatoes, Red Onions, Friggitello Peppers, Garlic"
 ital_supr,The Italian Supreme Pizza,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic"
 peppr_salami,The Pepper Salami Pizza,Supreme,"Genoa Salami, Capocollo, Pepperoni, Tomatoes, Asiago Cheese, Garlic"
 prsc_argla,The Prosciutto and Arugula Pizza,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese"
