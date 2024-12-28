@@ -1,1 +1,45 @@
+Hello everyone
+
+Project Name: Indian Box Office Analysis with Python
+
+Problem Statement: The Indian Box Office dataset comprises detailed information on films for the last 10 years, including aspects such as film titles, release dates, 
+lead actors/actresses, industries, budgets, collections, verdicts, IMDb ratings, runtimes, OTT platforms, directors, languages, and genres. 
+Participants are tasked with leveraging SQL to analyse this dataset and derive meaningful insights that can inform decision-making within the film industry.
+
+DataSets: 
+• Boxoffice.csv
+• Director.csv
+• Genre.csv
+• Language.csv
+
+	Boxoffice_fact:
+1.	FilmID - Unique identifier for each film.
+2.	Title - The title of the film. Reflects the primary name of the film. 
+3.	Release Date - The date on which the film was released. Important for tracking the release timeline
+4.	Lead Actor/Actress - The primary actor or actress starring in the film
+5.	Industry - The film industry to which the film belongs (e.g., Bollywood, Tollywood).
+6.	Budget in Crores - The production budget of the film in crores (Indian Rupees INR)
+7.	First Day Collection Worldwide in Crores -  The film’s box office collection worldwide on its first day of release, measured in crores.
+8.	Worldwide Collection in Crores - Total box office collection worldwide, measured in crores.
+9.	Overseas Collection in Crores - Total box office collection from overseas markets, measured in crores.
+10.	India Gross Collection in Crores - Total box office collection within India, measured in crores.
+11.	Verdict - The overall performance assessment of the film (e.g., Hit, Flop, Blockbuster).
+12.	IMDb Rating - The IMDb rating of the film. Reflects audience and critic ratings.
+13.	Runtime (mins) - The total runtime of the film in minutes. Duration of the film.
+14.	OTT Platform - The OTT platform where the film is available for streaming.
+15.	DirectorID - The Unique ID of director of the film.
+16.	LanguageID - The Unique ID of Language.
+17.	GenreID - The ID of genre of the film.
+	Genre_dim
+1.	Genre - The genre of the film (e.g., Action, Drama, Comedy)
+2.	GenreID - The Unique ID of genre of the film.
+
+	Language_dim
+1.	Language  - The language in which the film was produced.
+2.	LanguageID – The Unique ID of Language.
+
+	Director_dim
+1.	Director  - The director of the film.
+2.	DirectorID - The Unique ID of director of the film.
+
 
