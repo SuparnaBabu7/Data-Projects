@@ -1,0 +1,23 @@
+"emp_id","first_name","last_name","salary","joining_date","department","gender","job_title"
+101,Malli,G,50000.0,"2020-09-20 11:16:30",IT,Male,Software Engineer
+102,Venu,S,55000.0,"2024-10-05 07:15:15",IT,Male,Software Engineer
+103,Anjali,R,62000.0,"2024-08-15 09:45:22",HR,Female,HR Manager
+104,Rajesh,K,48000.0,"2023-07-10 14:10:06",Finance,Male,Financial Analyst
+105,Priya,M,53000.0,"2024-06-25 18:30:44",IT,Female,Software Engineer
+106,Arjun,B,67000.0,"2024-09-05 12:25:12",Operations,Male,Unknown
+107,Sneha,T,60000.0,"2024-05-19 08:20:33",Marketing,Female,Marketing Executive
+108,Vikram,P,58000.0,"2024-04-30 17:55:11",IT,Male,Software Engineer
+109,   Kavita     ,L,50000.0,"2023-03-15 11:05:28",HR,Female,HR Manager
+110,Suresh,N,62000.0,"2024-02-28 15:40:19",Finance,Male,Financial Analyst
+110,Suresh,N,62000.0,"2024-02-28 15:40:19",Finance,Male,Financial Analyst
+111,   Deepak  ,J,65000.0,"2022-09-22 16:30:30",Operations,Male,Unknown
+112,Roshni,D,52000.0,"2022-11-12 10:12:08",IT,Female,Software Engineer
+113,Sameer,C,70000.0,"2024-10-18 13:45:51",Marketing,Male,Marketing Executive
+114,Pooja    ,V,56000.0,"2024-07-07 19:10:14",HR,Female,HR Manager
+115,Harish,S,48000.0,"2024-06-02 06:35:49",Finance,Male,Financial Analyst
+116,    Asha,Y,51000.0,"2024-05-21 14:22:40",IT,Female,Software Engineer
+117,Kiran,Z,62000.0,"2021-04-18 18:55:20",Operations,Male,Unknown
+118,Divya,M,58000.0,"2024-03-29 08:11:33",Marketing,Female,Marketing Executive
+118,Divya,M,58000.0,"2024-03-29 08:11:33",Marketing,Female,Marketing Executive
+119,Sunil    ,B,60000.0,"2024-02-17 12:47:52",HR,Male,HR Manager
+120,Meena,A,49000.0,"2020-01-05 16:25:41",IT,Female,Software Engineer
