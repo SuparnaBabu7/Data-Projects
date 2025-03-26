@@ -1,0 +1,295 @@
+{
+  "properties": {
+    "activities": [
+      {
+        "type": "ForEach",
+        "typeProperties": {
+          "items": {
+            "value": "@pipeline().parameters.cw_items_k5f",
+            "type": "Expression"
+          },
+          "activities": [
+            {
+              "type": "Copy",
+              "typeProperties": {
+                "source": {
+                  "type": "LakehouseTableSource",
+                  "datasetSettings": {
+                    "type": "LakehouseTable",
+                    "typeProperties": {
+                      "table": {
+                        "value": "@item().source.table",
+                        "type": "Expression"
+                      }
+                    },
+                    "schema": [],
+                    "linkedService": {
+                      "name": "Malli_LH",
+                      "properties": {
+                        "type": "Lakehouse",
+                        "typeProperties": {
+                          "artifactId": "c8357961-5d45-b8b5-408e-a24bb198efa5",
+                          "workspaceId": "00000000-0000-0000-0000-000000000000",
+                          "rootFolder": "Tables"
+                        },
+                        "annotations": []
+                      }
+                    },
+                    "annotations": []
+                  }
+                },
+                "sink": {
+                  "type": "DataWarehouseSink",
+                  "tableOption": "autoCreate",
+                  "allowCopyCommand": true,
+                  "copyCommandSettings": {},
+                  "datasetSettings": {
+                    "type": "DataWarehouseTable",
+                    "typeProperties": {
+                      "schema": "dbo",
+                      "table": {
+                        "value": "@item().destination.table",
+                        "type": "Expression"
+                      }
+                    },
+                    "schema": [],
+                    "linkedService": {
+                      "name": "Malli_WH",
+                      "properties": {
+                        "type": "DataWarehouse",
+                        "typeProperties": {
+                          "artifactId": "64d0a7fe-9ad8-411d-8ae9-be9e09262eaf",
+                          "endpoint": "mxpovfcbjakeffurdm6nvzndo4-k2a3drbpzcvehpeyoktwawaqe4.datawarehouse.fabric.microsoft.com",
+                          "workspaceId": "c4b18156-c82f-43aa-bc98-72a760581027"
+                        },
+                        "annotations": []
+                      }
+                    },
+                    "annotations": []
+                  }
+                },
+                "translator": {
+                  "value": "@item().copyActivity.translator",
+                  "type": "Expression"
+                },
+                "enableStaging": true
+              },
+              "policy": {
+                "timeout": "0.12:00:00",
+                "retry": 0,
+                "retryIntervalInSeconds": 30,
+                "secureInput": false,
+                "secureOutput": false
+              },
+              "name": "Copy_k5f",
+              "dependsOn": []
+            }
+          ]
+        },
+        "name": "ForEach_k5f",
+        "dependsOn": []
+      }
+    ],
+    "parameters": {
+      "cw_items_k5f": {
+        "type": "Array",
+        "defaultValue": [
+          {
+            "source": {
+              "table": "emp_details"
+            },
+            "destination": {
+              "table": "emp_details"
+            },
+            "copyActivity": {
+              "translator": {
+                "type": "TabularTranslator",
+                "mappings": [
+                  {
+                    "source": {
+                      "name": "emp_id",
+                      "type": "Int32",
+                      "physicalType": "integer"
+                    },
+                    "sink": {
+                      "name": "emp_id",
+                      "physicalType": "int"
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "first_name",
+                      "type": "String",
+                      "physicalType": "string"
+                    },
+                    "sink": {
+                      "name": "first_name",
+                      "physicalType": "varchar",
+                      "length": "8000"
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "last_name",
+                      "type": "String",
+                      "physicalType": "string"
+                    },
+                    "sink": {
+                      "name": "last_name",
+                      "physicalType": "varchar",
+                      "length": "8000"
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "salary",
+                      "type": "Double",
+                      "physicalType": "double"
+                    },
+                    "sink": {
+                      "name": "salary",
+                      "physicalType": "float"
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "joining_date",
+                      "type": "DateTime",
+                      "physicalType": "timestamp"
+                    },
+                    "sink": {
+                      "name": "joining_date",
+                      "physicalType": "datetime2",
+                      "precision": 6
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "department",
+                      "type": "String",
+                      "physicalType": "string"
+                    },
+                    "sink": {
+                      "name": "department",
+                      "physicalType": "varchar",
+                      "length": "8000"
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "gender",
+                      "type": "String",
+                      "physicalType": "string"
+                    },
+                    "sink": {
+                      "name": "gender",
+                      "physicalType": "varchar",
+                      "length": "8000"
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "job_title",
+                      "type": "String",
+                      "physicalType": "string"
+                    },
+                    "sink": {
+                      "name": "job_title",
+                      "physicalType": "varchar",
+                      "length": "8000"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "source": {
+              "table": "project_details"
+            },
+            "destination": {
+              "table": "project_details"
+            },
+            "copyActivity": {
+              "translator": {
+                "type": "TabularTranslator",
+                "mappings": [
+                  {
+                    "source": {
+                      "name": "project_id",
+                      "type": "Int32",
+                      "physicalType": "integer"
+                    },
+                    "sink": {
+                      "name": "project_id",
+                      "physicalType": "int"
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "emp_id_no",
+                      "type": "Int32",
+                      "physicalType": "integer"
+                    },
+                    "sink": {
+                      "name": "emp_id_no",
+                      "physicalType": "int"
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "project_name",
+                      "type": "String",
+                      "physicalType": "string"
+                    },
+                    "sink": {
+                      "name": "project_name",
+                      "physicalType": "varchar",
+                      "length": "8000"
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "start_date",
+                      "type": "Date",
+                      "physicalType": "date"
+                    },
+                    "sink": {
+                      "name": "start_date",
+                      "physicalType": "datetime2",
+                      "precision": 6
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "end_date",
+                      "type": "Date",
+                      "physicalType": "date"
+                    },
+                    "sink": {
+                      "name": "end_date",
+                      "physicalType": "datetime2",
+                      "precision": 6
+                    }
+                  },
+                  {
+                    "source": {
+                      "name": "status",
+                      "type": "String",
+                      "physicalType": "string"
+                    },
+                    "sink": {
+                      "name": "status",
+                      "physicalType": "varchar",
+                      "length": "8000"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
