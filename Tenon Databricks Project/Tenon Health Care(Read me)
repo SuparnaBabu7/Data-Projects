@@ -1,0 +1,90 @@
+𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚𝐧 𝐄𝐧𝐝-𝐭𝐨-𝐄𝐧𝐝 𝐇𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞 𝐃𝐚𝐭𝐚 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞 𝐔𝐬𝐢𝐧𝐠 𝐀𝐳𝐮𝐫𝐞 𝐃𝐚𝐭𝐚𝐛𝐫𝐢𝐜𝐤𝐬
+
+𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏
+In today's data-driven world, healthcare organizations require robust data pipelines to process, analyze, and visualize patient data efficiently. In this blog, we will explore how we implemented an end-to-end data pipeline for Tenon Health Care using Azure Databricks, ensuring seamless data flow from multiple sources to Power BI for reporting.
+
+𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
+The project involved integrating data from multiple sources, including Azure Cosmos DB, on-premises MySQL, and Azure Blob Storage. We leveraged Azure Data Factory (ADF) for ETL, Azure Key Vault for security, and Databricks for data transformations. The final dataset was stored in Azure SQL Database and visualized in Power BI.
+
+𝗦𝘁𝗲𝗽-𝗯𝘆-𝗦𝘁𝗲𝗽 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻
+
+1. 𝑺𝒆𝒕𝒕𝒊𝒏𝒈 𝑼𝒑 𝑫𝒂𝒕𝒂 𝑺𝒕𝒐𝒓𝒂𝒈𝒆 𝒂𝒏𝒅 𝑺𝒐𝒖𝒓𝒄𝒆𝒔
+
+Azure Cosmos DB: Hosted Claims.csv file.
+
+On-Premises MySQL: Contained hospital-related data.
+
+Azure Blob Storage: Uploaded CSV files including diseases, groups, sub-groups, patients, and subscribers.
+
+2. 𝑪𝒓𝒆𝒂𝒕𝒊𝒏𝒈 𝑨𝒛𝒖𝒓𝒆 𝑫𝒂𝒕𝒂 𝑭𝒂𝒄𝒕𝒐𝒓𝒚 (𝑨𝑫𝑭) 𝑷𝒊𝒑𝒆𝒍𝒊𝒏𝒆𝒔
+
+Built linked services to connect Blob Storage, Cosmos DB, and Azure SQL Database.
+
+Configured Azure Key Vault to securely store connection credentials.
+
+Granted access to ADF in Key Vault.
+
+3. 𝑫𝒂𝒕𝒂 𝑰𝒏𝒈𝒆𝒔𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝑻𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝑷𝒊𝒑𝒆𝒍𝒊𝒏𝒆𝒔
+
+Raw to Bronze: Loaded claims data from Cosmos DB to the raw layer using ADF pipelines.
+
+Bronze to Silver: Created a raw2bronze_PL pipeline to move and clean data.
+
+Silver to Gold: Developed Tenon_main_PL, a master pipeline orchestrating all transformations.
+
+4. 𝑫𝒂𝒕𝒂 𝑻𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑫𝒂𝒕𝒂𝒃𝒓𝒊𝒄𝒌𝒔
+
+Created a Databricks workspace and a Tenon folder to manage notebooks.
+
+Configured connectors for various storage accounts.
+
+𝑰𝒎𝒑𝒍𝒆𝒎𝒆𝒏𝒕𝒆𝒅 𝒄𝒍𝒆𝒂𝒏𝒊𝒏𝒈 𝒂𝒏𝒅 𝒗𝒂𝒍𝒊𝒅𝒂𝒕𝒊𝒐𝒏 𝒔𝒕𝒆𝒑𝒔 𝒊𝒏 𝒅𝒆𝒅𝒊𝒄𝒂𝒕𝒆𝒅 𝒏𝒐𝒕𝒆𝒃𝒐𝒐𝒌𝒔:
+
+Hospital_transformations
+Groups_transformations
+Sub-Groups_transformations
+Disease_transformations
+Patient_transformations
+Claims_transformations
+Subscribers_transformations
+
+Performed data joins in tenon-spb-workspace-silver.
+
+Consolidated all transformations in silver_transformation and wrote the final dataset to the Gold Layer.
+
+5. 𝑾𝒓𝒊𝒕𝒊𝒏𝒈 𝑫𝒂𝒕𝒂 𝒕𝒐 𝑨𝒛𝒖𝒓𝒆 𝑺𝑸𝑳 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆
+
+Generated an authentication token for ADF to connect with Databricks.
+
+Created a new notebook to write the final dataset to Azure SQL Database.
+
+Added code in silver_transformation to store data as a Delta Table in Databricks.
+
+6. 𝑭𝒊𝒏𝒂𝒍𝒊𝒛𝒊𝒏𝒈 𝒕𝒉𝒆 𝑫𝒂𝒕𝒂 𝑷𝒊𝒑𝒆𝒍𝒊𝒏𝒆
+
+Developed SILVER2BRONZE2ASQLDB pipeline to load the cleaned data into Azure SQL Database.
+
+Integrated this pipeline into Tenon_main_PL.
+
+Successfully ran the main pipeline, ensuring data flow from raw to gold.
+
+7. 𝑷𝒐𝒘𝒆𝒓 𝑩𝑰 𝑫𝒂𝒔𝒉𝒃𝒐𝒂𝒓𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
+
+Pulled the final dataset from Azure SQL Database into Power BI.
+
+Designed interactive reports for healthcare insights.
+
+Shared the dashboard with end users for real-time analytics.
+
+𝐅𝐢𝐧𝐚𝐥 𝐎𝐮𝐭𝐜𝐨𝐦𝐞
+
+✅ Tenon_final_csv generated in the Gold Layer.
+✅ Tenon_TB table stored in Azure SQL Database.
+✅ Delta Table created in Databricks.
+✅ Power BI Report delivered to stakeholders.
+
+𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻
+
+This project demonstrated the power of Azure Databricks in handling large-scale healthcare data. By integrating Cosmos DB, MySQL, Blob Storage, ADF, Databricks, and Power BI, we built a scalable, secure, and efficient data pipeline. The end result? A robust healthcare analytics solution that empowers stakeholders with data-driven insights.
+
+
