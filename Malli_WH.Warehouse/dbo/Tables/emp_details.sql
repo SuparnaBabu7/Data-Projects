@@ -10,4 +10,3 @@ CREATE TABLE [dbo].[emp_details] (
 	[job_title] varchar(8000) NULL, 
 	[full_name] varchar(255) NULL
 );
-

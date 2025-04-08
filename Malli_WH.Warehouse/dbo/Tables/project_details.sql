@@ -7,4 +7,3 @@ CREATE TABLE [dbo].[project_details] (
 	[end_date] datetime2(6) NULL, 
 	[status] varchar(8000) NULL
 );
-
