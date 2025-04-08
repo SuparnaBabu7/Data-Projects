@@ -1,0 +1,12 @@
+"project_id","emp_id_no","project_name","start_date","end_date","status"
+2001,101,Website Redesign,"2022-03-07","2022-06-10",Completed
+2002,101,Cloud Migration,"2022-08-10",,Ongoing
+2003,102,AI Chatbot,"2022-01-29",,Ongoing
+2004,103,Data Migration,"2022-08-13","2023-04-05",Completed
+2005,103,AI Chatbot,"2022-05-21","2022-07-08",Completed
+2006,103,ML Model Deployment,"2022-05-14",,Ongoing
+2007,104,Website Redesign,"2023-04-18","2023-07-20",Completed
+2008,105,ML Model Deployment,"2022-05-22","2022-07-02",Completed
+2009,105,Cloud Migration,"2023-04-10","2024-01-14",Completed
+2010,106,Data Migration,"2022-05-03","2022-07-14",Completed
+1111,202,Food Ordering App,"2024-02-01",,Ongoing
